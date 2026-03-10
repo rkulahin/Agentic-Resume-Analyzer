@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C053",
+  "full_name": "Tetiana Lysenko",
+  "location": "Dnipro",
+  "preferred_locations": [
+    "Dnipro",
+    "Remote"
+  ],
+  "years_experience": 0.8,
+  "seniority_level": "Junior",
+  "skills": [
+    "digital marketing",
+    "content strategy",
+    "seo",
+    "google analytics",
+    "campaign management",
+    "email marketing",
+    "smm"
+  ],
+  "primary_stack": "Marketing",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in marketing, communications, or business; continued learning in marketing tooling and engineering practices.",
+  "work_history": "Delivered projects focused on planning and executing acquisition, retention, and content campaigns; worked with digital marketing, content strategy, seo, google analytics, campaign management; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Marketing Specialist",
+    "Growth Marketer"
+  ],
+  "summary": "Junior Marketing Specialist with 0.8 years of experience in planning and executing acquisition, retention, and content campaigns.",
+  "raw_text": "Tetiana Lysenko is a junior marketing specialist based in Dnipro. Experience: 0.8 years. Skills: digital marketing, content strategy, seo, google analytics, campaign management, email marketing, smm. Target roles: Marketing Specialist, Growth Marketer. Focus: planning and executing acquisition, retention, and content campaigns.",
+  "source_file": "candidate_C053.json"
+}

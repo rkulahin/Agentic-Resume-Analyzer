@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V024",
+  "title": "FastAPI Developer",
+  "company": "LaunchPoint",
+  "location": "Kharkiv",
+  "employment_type": "contract",
+  "years_experience_required": 2.6,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "sqlalchemy",
+    "pytest",
+    "flask"
+  ],
+  "optional_skills": [
+    "rabbitmq",
+    "terraform"
+  ],
+  "responsibilities": "design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in python, fastapi, django, postgresql, docker. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "LaunchPoint is hiring a middle fastapi developer to support developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Vacancy V024: FastAPI Developer at LaunchPoint. Location: Kharkiv. Employment: contract. Required experience: 2.6 years. Required skills: python, fastapi, django, postgresql, docker, sqlalchemy, pytest, flask. Optional skills: rabbitmq, terraform. Responsibilities: design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring.",
+  "source_file": "vacancy_V024.json"
+}

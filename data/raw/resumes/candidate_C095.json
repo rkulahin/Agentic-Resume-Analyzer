@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C095",
+  "full_name": "Alina Melnyk",
+  "location": "Dnipro",
+  "preferred_locations": [
+    "Dnipro",
+    "Remote"
+  ],
+  "years_experience": 2.0,
+  "seniority_level": "Junior",
+  "skills": [
+    "tax compliance",
+    "tax planning",
+    "excel",
+    "accounting",
+    "tax legislation",
+    "1c",
+    "vat"
+  ],
+  "primary_stack": "Tax Consulting",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in tax, finance, accounting, or law; continued learning in tax consulting tooling and engineering practices.",
+  "work_history": "Delivered projects focused on supporting businesses with tax compliance, planning, and advisory work; worked with tax compliance, tax planning, excel, accounting, tax legislation; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Tax Consultant",
+    "Tax Advisor"
+  ],
+  "summary": "Junior Tax Consultant with 2.0 years of experience in supporting businesses with tax compliance, planning, and advisory work.",
+  "raw_text": "Alina Melnyk is a junior tax consultant based in Dnipro. Experience: 2.0 years. Skills: tax compliance, tax planning, excel, accounting, tax legislation, 1c, vat. Target roles: Tax Consultant, Tax Advisor. Focus: supporting businesses with tax compliance, planning, and advisory work.",
+  "source_file": "candidate_C095.json"
+}

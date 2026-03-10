@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C021",
+  "full_name": "Olena Shevchenko",
+  "location": "Warsaw",
+  "preferred_locations": [
+    "Warsaw",
+    "Remote"
+  ],
+  "years_experience": 2.2,
+  "seniority_level": "Junior",
+  "skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "aws",
+    "redis",
+    "celery"
+  ],
+  "primary_stack": "Python",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in computer science; continued learning in python tooling and engineering practices.",
+  "work_history": "Delivered projects focused on developing backend services, APIs, and data-driven platform features; worked with python, fastapi, django, postgresql, docker; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Backend Engineer",
+    "API Developer"
+  ],
+  "summary": "Junior Python Backend Developer with 2.2 years of experience in developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Olena Shevchenko is a junior python backend developer based in Warsaw. Experience: 2.2 years. Skills: python, fastapi, django, postgresql, docker, aws, redis, celery. Target roles: Backend Engineer, API Developer. Focus: developing backend services, APIs, and data-driven platform features.",
+  "source_file": "candidate_C021.json"
+}

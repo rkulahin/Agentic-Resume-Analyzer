@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V049",
+  "title": "QA Engineer",
+  "company": "NovaSoft",
+  "location": "Lviv",
+  "employment_type": "full-time",
+  "years_experience_required": 2.3,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "api testing",
+    "playwright"
+  ],
+  "optional_skills": [
+    "test planning",
+    "performance testing",
+    "mobile testing"
+  ],
+  "responsibilities": "create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in testing, jira, sql, postman, api testing. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "NovaSoft is hiring a middle qa engineer to support validating product quality through manual and automated testing.",
+  "raw_text": "Vacancy V049: QA Engineer at NovaSoft. Location: Lviv. Employment: full-time. Required experience: 2.3 years. Required skills: testing, jira, sql, postman, api testing, playwright. Optional skills: test planning, performance testing, mobile testing. Responsibilities: create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams.",
+  "source_file": "vacancy_V049.json"
+}

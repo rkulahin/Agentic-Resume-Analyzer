@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "V067",
+  "title": "ASP.NET Core Developer",
+  "company": "CodeHarbor",
+  "location": "Odesa",
+  "employment_type": "full-time",
+  "years_experience_required": 0.9,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "microservices",
+    "xunit",
+    "rest api",
+    "redis"
+  ],
+  "optional_skills": [
+    "clean architecture",
+    "ci/cd"
+  ],
+  "responsibilities": "develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in c#, .net, asp.net core, sql server, entity framework. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CodeHarbor is hiring a junior asp.net core developer to support building enterprise backend systems and internal business applications.",
+  "raw_text": "Vacancy V067: ASP.NET Core Developer at CodeHarbor. Location: Odesa. Employment: full-time. Required experience: 0.9 years. Required skills: c#, .net, asp.net core, sql server, entity framework, microservices, xunit, rest api, redis. Optional skills: clean architecture, ci/cd. Responsibilities: develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow.",
+  "source_file": "vacancy_V067.json"
+}

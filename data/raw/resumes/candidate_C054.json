@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C054",
+  "full_name": "Viktor Shapoval",
+  "location": "Kharkiv",
+  "preferred_locations": [
+    "Kharkiv",
+    "Remote"
+  ],
+  "years_experience": 1.0,
+  "seniority_level": "Junior",
+  "skills": [
+    "digital marketing",
+    "content strategy",
+    "seo",
+    "google analytics",
+    "campaign management",
+    "smm",
+    "copywriting",
+    "hubspot"
+  ],
+  "primary_stack": "Marketing",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in marketing, communications, or business; continued learning in marketing tooling and engineering practices.",
+  "work_history": "Delivered projects focused on planning and executing acquisition, retention, and content campaigns; worked with digital marketing, content strategy, seo, google analytics, campaign management; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Growth Marketer",
+    "Digital Marketing Manager"
+  ],
+  "summary": "Junior Marketing Specialist with 1.0 years of experience in planning and executing acquisition, retention, and content campaigns.",
+  "raw_text": "Viktor Shapoval is a junior marketing specialist based in Kharkiv. Experience: 1.0 years. Skills: digital marketing, content strategy, seo, google analytics, campaign management, smm, copywriting, hubspot. Target roles: Growth Marketer, Digital Marketing Manager. Focus: planning and executing acquisition, retention, and content campaigns.",
+  "source_file": "candidate_C054.json"
+}

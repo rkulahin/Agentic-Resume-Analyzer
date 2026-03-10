@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "V100",
+  "title": "Tax Compliance Specialist",
+  "company": "CloudForge",
+  "location": "Dnipro",
+  "employment_type": "full-time",
+  "years_experience_required": 2.9,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "tax compliance",
+    "tax planning",
+    "excel",
+    "accounting",
+    "tax legislation",
+    "risk analysis",
+    "advisory",
+    "1c",
+    "vat"
+  ],
+  "optional_skills": [
+    "erp",
+    "policy drafting",
+    "client communication"
+  ],
+  "responsibilities": "prepare tax calculations and compliance documents; analyze legislation changes and client impact; advise stakeholders on tax risks and optimization opportunities",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in tax compliance, tax planning, excel, accounting, tax legislation. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CloudForge is hiring a middle tax compliance specialist to support supporting businesses with tax compliance, planning, and advisory work.",
+  "raw_text": "Vacancy V100: Tax Compliance Specialist at CloudForge. Location: Dnipro. Employment: full-time. Required experience: 2.9 years. Required skills: tax compliance, tax planning, excel, accounting, tax legislation, risk analysis, advisory, 1c, vat. Optional skills: erp, policy drafting, client communication. Responsibilities: prepare tax calculations and compliance documents; analyze legislation changes and client impact; advise stakeholders on tax risks and optimization opportunities.",
+  "source_file": "vacancy_V100.json"
+}

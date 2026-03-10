@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C084",
+  "full_name": "Maksym Hrytsenko",
+  "location": "Warsaw",
+  "preferred_locations": [
+    "Warsaw",
+    "Remote"
+  ],
+  "years_experience": 2.2,
+  "seniority_level": "Junior",
+  "skills": [
+    "audit",
+    "excel",
+    "financial reporting",
+    "internal controls",
+    "risk assessment",
+    "ifrs",
+    "gaap",
+    "sap"
+  ],
+  "primary_stack": "Audit",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in accounting, finance, or auditing; continued learning in audit tooling and engineering practices.",
+  "work_history": "Delivered projects focused on reviewing financial processes, controls, and compliance activities; worked with audit, excel, financial reporting, internal controls, risk assessment; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Internal Auditor",
+    "Audit Associate"
+  ],
+  "summary": "Junior Audit Specialist with 2.2 years of experience in reviewing financial processes, controls, and compliance activities.",
+  "raw_text": "Maksym Hrytsenko is a junior audit specialist based in Warsaw. Experience: 2.2 years. Skills: audit, excel, financial reporting, internal controls, risk assessment, ifrs, gaap, sap. Target roles: Internal Auditor, Audit Associate. Focus: reviewing financial processes, controls, and compliance activities.",
+  "source_file": "candidate_C084.json"
+}

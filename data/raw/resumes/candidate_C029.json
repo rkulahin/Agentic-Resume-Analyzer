@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C029",
+  "full_name": "Anastasiia Bondarenko",
+  "location": "Kyiv",
+  "preferred_locations": [
+    "Kyiv",
+    "Remote"
+  ],
+  "years_experience": 1.2,
+  "seniority_level": "Junior",
+  "skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "statistics",
+    "airflow",
+    "looker",
+    "bigquery"
+  ],
+  "primary_stack": "Analytics",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in analytics, economics, or applied mathematics; continued learning in analytics tooling and engineering practices.",
+  "work_history": "Delivered projects focused on analyzing business metrics, building dashboards, and explaining trends; worked with sql, python, excel, tableau, statistics; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Product Analyst",
+    "Data Analyst"
+  ],
+  "summary": "Junior Data Analyst with 1.2 years of experience in analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Anastasiia Bondarenko is a junior data analyst based in Kyiv. Experience: 1.2 years. Skills: sql, python, excel, tableau, statistics, airflow, looker, bigquery. Target roles: Product Analyst, Data Analyst. Focus: analyzing business metrics, building dashboards, and explaining trends.",
+  "source_file": "candidate_C029.json"
+}

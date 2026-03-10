@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V099",
+  "title": "Tax Advisor",
+  "company": "BrightLabs",
+  "location": "Remote",
+  "employment_type": "contract",
+  "years_experience_required": 2.6,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "tax compliance",
+    "tax planning",
+    "excel",
+    "accounting",
+    "tax legislation",
+    "reporting",
+    "risk analysis",
+    "advisory"
+  ],
+  "optional_skills": [
+    "ifrs",
+    "erp"
+  ],
+  "responsibilities": "prepare tax calculations and compliance documents; analyze legislation changes and client impact; advise stakeholders on tax risks and optimization opportunities",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in tax compliance, tax planning, excel, accounting, tax legislation. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "BrightLabs is hiring a middle tax advisor to support supporting businesses with tax compliance, planning, and advisory work.",
+  "raw_text": "Vacancy V099: Tax Advisor at BrightLabs. Location: Remote. Employment: contract. Required experience: 2.6 years. Required skills: tax compliance, tax planning, excel, accounting, tax legislation, reporting, risk analysis, advisory. Optional skills: ifrs, erp. Responsibilities: prepare tax calculations and compliance documents; analyze legislation changes and client impact; advise stakeholders on tax risks and optimization opportunities.",
+  "source_file": "vacancy_V099.json"
+}

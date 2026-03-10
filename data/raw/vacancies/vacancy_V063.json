@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V063",
+  "title": "Digital Marketer",
+  "company": "BrightLabs",
+  "location": "Lviv",
+  "employment_type": "contract",
+  "years_experience_required": 2.6,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "digital marketing",
+    "content strategy",
+    "seo",
+    "google analytics",
+    "campaign management",
+    "hubspot",
+    "meta ads",
+    "google ads"
+  ],
+  "optional_skills": [
+    "brand strategy",
+    "market research"
+  ],
+  "responsibilities": "launch and optimize multichannel campaigns; analyze funnel metrics and campaign performance; coordinate content, design, and sales stakeholders",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in digital marketing, content strategy, seo, google analytics, campaign management. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "BrightLabs is hiring a middle digital marketer to support planning and executing acquisition, retention, and content campaigns.",
+  "raw_text": "Vacancy V063: Digital Marketer at BrightLabs. Location: Lviv. Employment: contract. Required experience: 2.6 years. Required skills: digital marketing, content strategy, seo, google analytics, campaign management, hubspot, meta ads, google ads. Optional skills: brand strategy, market research. Responsibilities: launch and optimize multichannel campaigns; analyze funnel metrics and campaign performance; coordinate content, design, and sales stakeholders.",
+  "source_file": "vacancy_V063.json"
+}

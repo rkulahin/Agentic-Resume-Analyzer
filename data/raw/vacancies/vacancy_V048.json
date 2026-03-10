@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V048",
+  "title": "Software Test Engineer",
+  "company": "LaunchPoint",
+  "location": "Kyiv",
+  "employment_type": "contract",
+  "years_experience_required": 2.0,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "cypress",
+    "api testing",
+    "playwright",
+    "python"
+  ],
+  "optional_skills": [
+    "bug reporting",
+    "test planning"
+  ],
+  "responsibilities": "create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in testing, jira, sql, postman, cypress. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "LaunchPoint is hiring a middle software test engineer to support validating product quality through manual and automated testing.",
+  "raw_text": "Vacancy V048: Software Test Engineer at LaunchPoint. Location: Kyiv. Employment: contract. Required experience: 2.0 years. Required skills: testing, jira, sql, postman, cypress, api testing, playwright, python. Optional skills: bug reporting, test planning. Responsibilities: create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams.",
+  "source_file": "vacancy_V048.json"
+}

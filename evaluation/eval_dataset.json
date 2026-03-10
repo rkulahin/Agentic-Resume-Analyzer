@@ -1,0 +1,142 @@
+[
+  {
+    "id": "R01",
+    "type": "candidate_search",
+    "query": "Looking for a Senior Python developer with FastAPI and PostgreSQL, Remote",
+    "expected_top_ids": ["C007", "C006"],
+    "expected_skills": ["python", "fastapi", "postgresql"]
+  },
+  {
+    "id": "R02",
+    "type": "candidate_search",
+    "query": "Need a Middle React developer with TypeScript, Lviv",
+    "expected_top_ids": ["C002", "C004"],
+    "expected_skills": ["react", "typescript"]
+  },
+  {
+    "id": "R03",
+    "type": "candidate_search",
+    "query": "Junior Data Analyst with SQL and Python, Kyiv",
+    "expected_top_ids": ["C009"],
+    "expected_skills": ["sql", "python"]
+  },
+  {
+    "id": "R04",
+    "type": "candidate_search",
+    "query": "QA Engineer with Selenium and Cypress, Remote",
+    "expected_top_ids": ["C015", "C014"],
+    "expected_skills": ["selenium", "cypress"]
+  },
+  {
+    "id": "R05",
+    "type": "candidate_search",
+    "query": "Python backend developer with Django experience, Kyiv or Remote",
+    "expected_top_ids": ["C006", "C008"],
+    "expected_skills": ["python", "django"]
+  },
+  {
+    "id": "R06",
+    "type": "candidate_search",
+    "query": "Senior React developer for a large-scale project, any location",
+    "expected_top_ids": ["C003"],
+    "expected_skills": ["react"]
+  },
+  {
+    "id": "R07",
+    "type": "candidate_search",
+    "query": "Middle QA Engineer with API testing experience, Kyiv",
+    "expected_top_ids": ["C014"],
+    "expected_skills": ["selenium"]
+  },
+  {
+    "id": "R08",
+    "type": "candidate_search",
+    "query": "Data Analyst with Tableau and Power BI, Remote",
+    "expected_top_ids": ["C011", "C010"],
+    "expected_skills": ["tableau", "power bi"]
+  },
+  {
+    "id": "R09",
+    "type": "candidate_search",
+    "query": "Junior Python developer who knows Flask, Dnipro",
+    "expected_top_ids": ["C005"],
+    "expected_skills": ["python", "flask"]
+  },
+  {
+    "id": "R10",
+    "type": "candidate_search",
+    "query": "Looking for a Middle React developer with Next.js experience, Kharkiv",
+    "expected_top_ids": ["C004", "C002"],
+    "expected_skills": ["react"]
+  },
+  {
+    "id": "C01",
+    "type": "vacancy_search",
+    "query": "I have 5 years of Python experience with FastAPI, Django, PostgreSQL, Docker. Looking for Senior positions, Remote.",
+    "expected_top_ids": ["V005", "V008"],
+    "expected_skills": ["python", "fastapi", "django", "postgresql", "docker"]
+  },
+  {
+    "id": "C02",
+    "type": "vacancy_search",
+    "query": "React developer, 2 years experience, TypeScript, Redux. Looking for a job in Lviv.",
+    "expected_top_ids": ["V03", "V04"],
+    "expected_skills": ["react", "typescript"]
+  },
+  {
+    "id": "C03",
+    "type": "vacancy_search",
+    "query": "Junior Data Analyst, SQL, Excel, Python, looking for entry-level positions in Kyiv",
+    "expected_top_ids": ["V009"],
+    "expected_skills": ["sql", "python"]
+  },
+  {
+    "id": "C04",
+    "type": "vacancy_search",
+    "query": "QA Engineer with 4 years experience, Selenium, Cypress, API testing. Remote preferred.",
+    "expected_top_ids": ["V013", "V014"],
+    "expected_skills": ["selenium", "cypress"]
+  },
+  {
+    "id": "C05",
+    "type": "vacancy_search",
+    "query": "Middle Python developer, FastAPI, PostgreSQL, Docker, AWS. Kyiv or Remote.",
+    "expected_top_ids": ["V006", "V005"],
+    "expected_skills": ["python", "fastapi", "postgresql", "docker"]
+  },
+  {
+    "id": "C06",
+    "type": "vacancy_search",
+    "query": "Senior React developer with Next.js and GraphQL, open to any location",
+    "expected_top_ids": ["V003"],
+    "expected_skills": ["react"]
+  },
+  {
+    "id": "C07",
+    "type": "vacancy_search",
+    "query": "My resume: Junior QA, 1 year of experience, manual testing, Jira, SQL. Looking for a job in Kyiv.",
+    "expected_top_ids": ["V012"],
+    "expected_skills": ["sql", "jira"]
+  },
+  {
+    "id": "C08",
+    "type": "vacancy_search",
+    "query": "Data Analyst with 3 years of experience, Tableau, SQL, Python, statistics. Looking for Middle positions.",
+    "expected_top_ids": ["V010", "V011"],
+    "expected_skills": ["sql", "python", "tableau"]
+  },
+  {
+    "id": "C09",
+    "type": "vacancy_search",
+    "query": "Python backend with 1 year experience, Flask, REST APIs. Looking for Junior/Middle roles in Dnipro.",
+    "expected_top_ids": ["V007"],
+    "expected_skills": ["python", "flask"]
+  },
+  {
+    "id": "C10",
+    "type": "vacancy_search",
+    "query": "I know React, JavaScript, HTML, CSS, 1.5 years experience. Any Junior frontend positions in Kyiv?",
+    "expected_top_ids": ["V001"],
+    "expected_skills": ["react", "javascript", "html", "css"]
+  }
+]

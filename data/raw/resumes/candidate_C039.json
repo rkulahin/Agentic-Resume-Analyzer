@@ -1,0 +1,33 @@
+{
+  "candidate_id": "C039",
+  "full_name": "Yuliia Sydorenko",
+  "location": "Dnipro",
+  "preferred_locations": [
+    "Dnipro",
+    "Remote"
+  ],
+  "years_experience": 3.6,
+  "seniority_level": "Middle",
+  "skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "bigquery",
+    "a/b testing"
+  ],
+  "primary_stack": "Analytics",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in analytics, economics, or applied mathematics; continued learning in analytics tooling and engineering practices.",
+  "work_history": "Delivered projects focused on analyzing business metrics, building dashboards, and explaining trends; worked with sql, python, excel, tableau, bigquery; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Data Analyst",
+    "BI Analyst"
+  ],
+  "summary": "Middle Data Analyst with 3.6 years of experience in analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Yuliia Sydorenko is a middle data analyst based in Dnipro. Experience: 3.6 years. Skills: sql, python, excel, tableau, bigquery, a/b testing. Target roles: Data Analyst, BI Analyst. Focus: analyzing business metrics, building dashboards, and explaining trends.",
+  "source_file": "candidate_C039.json"
+}

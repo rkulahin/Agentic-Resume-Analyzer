@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C097",
+  "full_name": "Marta Mazur",
+  "location": "Odesa",
+  "preferred_locations": [
+    "Odesa",
+    "Remote"
+  ],
+  "years_experience": 2.0,
+  "seniority_level": "Middle",
+  "skills": [
+    "tax compliance",
+    "tax planning",
+    "excel",
+    "accounting",
+    "tax legislation",
+    "corporate tax",
+    "transfer pricing",
+    "reporting",
+    "risk analysis"
+  ],
+  "primary_stack": "Tax Consulting",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in tax, finance, accounting, or law; continued learning in tax consulting tooling and engineering practices.",
+  "work_history": "Delivered projects focused on supporting businesses with tax compliance, planning, and advisory work; worked with tax compliance, tax planning, excel, accounting, tax legislation; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Tax Associate",
+    "Tax Consultant"
+  ],
+  "summary": "Middle Tax Consultant with 2.0 years of experience in supporting businesses with tax compliance, planning, and advisory work.",
+  "raw_text": "Marta Mazur is a middle tax consultant based in Odesa. Experience: 2.0 years. Skills: tax compliance, tax planning, excel, accounting, tax legislation, corporate tax, transfer pricing, reporting, risk analysis. Target roles: Tax Associate, Tax Consultant. Focus: supporting businesses with tax compliance, planning, and advisory work.",
+  "source_file": "candidate_C097.json"
+}

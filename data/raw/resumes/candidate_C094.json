@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C094",
+  "full_name": "Viktor Shapoval",
+  "location": "Remote",
+  "preferred_locations": [
+    "Remote",
+    "Dnipro"
+  ],
+  "years_experience": 1.8,
+  "seniority_level": "Junior",
+  "skills": [
+    "tax compliance",
+    "tax planning",
+    "excel",
+    "accounting",
+    "tax legislation",
+    "advisory",
+    "1c",
+    "vat",
+    "corporate tax"
+  ],
+  "primary_stack": "Tax Consulting",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in tax, finance, accounting, or law; continued learning in tax consulting tooling and engineering practices.",
+  "work_history": "Delivered projects focused on supporting businesses with tax compliance, planning, and advisory work; worked with tax compliance, tax planning, excel, accounting, tax legislation; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Tax Associate",
+    "Tax Consultant"
+  ],
+  "summary": "Junior Tax Consultant with 1.8 years of experience in supporting businesses with tax compliance, planning, and advisory work.",
+  "raw_text": "Viktor Shapoval is a junior tax consultant based in Remote. Experience: 1.8 years. Skills: tax compliance, tax planning, excel, accounting, tax legislation, advisory, 1c, vat, corporate tax. Target roles: Tax Associate, Tax Consultant. Focus: supporting businesses with tax compliance, planning, and advisory work.",
+  "source_file": "candidate_C094.json"
+}

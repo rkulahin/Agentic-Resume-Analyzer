@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C088",
+  "full_name": "Yaroslav Koval",
+  "location": "Dnipro",
+  "preferred_locations": [
+    "Dnipro",
+    "Remote"
+  ],
+  "years_experience": 3.2,
+  "seniority_level": "Middle",
+  "skills": [
+    "audit",
+    "excel",
+    "financial reporting",
+    "internal controls",
+    "risk assessment",
+    "process review",
+    "compliance",
+    "data analysis",
+    "ifrs"
+  ],
+  "primary_stack": "Audit",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in accounting, finance, or auditing; continued learning in audit tooling and engineering practices.",
+  "work_history": "Delivered projects focused on reviewing financial processes, controls, and compliance activities; worked with audit, excel, financial reporting, internal controls, risk assessment; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Audit Associate",
+    "Audit Specialist"
+  ],
+  "summary": "Middle Audit Specialist with 3.2 years of experience in reviewing financial processes, controls, and compliance activities.",
+  "raw_text": "Yaroslav Koval is a middle audit specialist based in Dnipro. Experience: 3.2 years. Skills: audit, excel, financial reporting, internal controls, risk assessment, process review, compliance, data analysis, ifrs. Target roles: Audit Associate, Audit Specialist. Focus: reviewing financial processes, controls, and compliance activities.",
+  "source_file": "candidate_C088.json"
+}

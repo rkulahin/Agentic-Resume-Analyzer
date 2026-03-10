@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C055",
+  "full_name": "Alina Melnyk",
+  "location": "Odesa",
+  "preferred_locations": [
+    "Odesa",
+    "Remote"
+  ],
+  "years_experience": 1.2,
+  "seniority_level": "Junior",
+  "skills": [
+    "digital marketing",
+    "content strategy",
+    "seo",
+    "google analytics",
+    "campaign management",
+    "copywriting",
+    "hubspot",
+    "meta ads",
+    "google ads"
+  ],
+  "primary_stack": "Marketing",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in marketing, communications, or business; continued learning in marketing tooling and engineering practices.",
+  "work_history": "Delivered projects focused on planning and executing acquisition, retention, and content campaigns; worked with digital marketing, content strategy, seo, google analytics, campaign management; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Digital Marketing Manager",
+    "Marketing Specialist"
+  ],
+  "summary": "Junior Marketing Specialist with 1.2 years of experience in planning and executing acquisition, retention, and content campaigns.",
+  "raw_text": "Alina Melnyk is a junior marketing specialist based in Odesa. Experience: 1.2 years. Skills: digital marketing, content strategy, seo, google analytics, campaign management, copywriting, hubspot, meta ads, google ads. Target roles: Digital Marketing Manager, Marketing Specialist. Focus: planning and executing acquisition, retention, and content campaigns.",
+  "source_file": "candidate_C055.json"
+}

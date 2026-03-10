@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C100",
+  "full_name": "Taras Tymoshenko",
+  "location": "Lviv",
+  "preferred_locations": [
+    "Lviv",
+    "Remote"
+  ],
+  "years_experience": 3.2,
+  "seniority_level": "Middle",
+  "skills": [
+    "tax compliance",
+    "tax planning",
+    "excel",
+    "accounting",
+    "tax legislation",
+    "risk analysis",
+    "advisory",
+    "1c",
+    "vat"
+  ],
+  "primary_stack": "Tax Consulting",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in tax, finance, accounting, or law; continued learning in tax consulting tooling and engineering practices.",
+  "work_history": "Delivered projects focused on supporting businesses with tax compliance, planning, and advisory work; worked with tax compliance, tax planning, excel, accounting, tax legislation; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Tax Associate",
+    "Tax Consultant"
+  ],
+  "summary": "Middle Tax Consultant with 3.2 years of experience in supporting businesses with tax compliance, planning, and advisory work.",
+  "raw_text": "Taras Tymoshenko is a middle tax consultant based in Lviv. Experience: 3.2 years. Skills: tax compliance, tax planning, excel, accounting, tax legislation, risk analysis, advisory, 1c, vat. Target roles: Tax Associate, Tax Consultant. Focus: supporting businesses with tax compliance, planning, and advisory work.",
+  "source_file": "candidate_C100.json"
+}

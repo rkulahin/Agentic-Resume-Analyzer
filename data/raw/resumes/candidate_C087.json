@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C087",
+  "full_name": "Kateryna Korniienko",
+  "location": "Remote",
+  "preferred_locations": [
+    "Remote",
+    "Dnipro"
+  ],
+  "years_experience": 2.8,
+  "seniority_level": "Middle",
+  "skills": [
+    "audit",
+    "excel",
+    "financial reporting",
+    "internal controls",
+    "risk assessment",
+    "documentation",
+    "process review",
+    "compliance"
+  ],
+  "primary_stack": "Audit",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in accounting, finance, or auditing; continued learning in audit tooling and engineering practices.",
+  "work_history": "Delivered projects focused on reviewing financial processes, controls, and compliance activities; worked with audit, excel, financial reporting, internal controls, risk assessment; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Internal Auditor",
+    "Audit Associate"
+  ],
+  "summary": "Middle Audit Specialist with 2.8 years of experience in reviewing financial processes, controls, and compliance activities.",
+  "raw_text": "Kateryna Korniienko is a middle audit specialist based in Remote. Experience: 2.8 years. Skills: audit, excel, financial reporting, internal controls, risk assessment, documentation, process review, compliance. Target roles: Internal Auditor, Audit Associate. Focus: reviewing financial processes, controls, and compliance activities.",
+  "source_file": "candidate_C087.json"
+}

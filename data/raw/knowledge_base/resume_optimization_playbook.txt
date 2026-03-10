@@ -1,0 +1,96 @@
+Resume Optimization Playbook for Candidate-to-Job Matching
+
+Purpose
+This document helps an assistant explain how to improve a resume so it matches job requirements more clearly. It is useful when the system identifies weak alignment between a candidate profile and a vacancy, or when a user asks how to rewrite a resume for better results.
+
+Core Resume Sections
+Summary:
+Write a 3-5 line summary that states seniority, domain, strongest skills, years of experience, and target role. Good summaries make matching easier because they surface relevant keywords early.
+
+Skills:
+List skills by category and in order of relevance. Use categories such as Programming Languages, Frameworks, Analytics Tools, Testing Tools, Marketing Channels, Finance Tools, and Methodologies. Put the strongest and most job-relevant skills first.
+
+Experience:
+Each role should answer three questions:
+What did you own?
+What tools or methods did you use?
+What measurable result did you achieve?
+Strong bullets usually follow this formula: action + context + technologies + outcome.
+
+Projects:
+Projects are important when work history is limited or when a candidate is pivoting to a new domain. Include stack, business problem, responsibilities, and measurable impact.
+
+Education and Certifications:
+Mention only relevant education, certifications, and advanced courses. In specialist roles such as Audit, Tax, Data, and Cloud-related engineering, certifications can materially improve perceived fit.
+
+How to Rewrite Weak Resume Content
+Weak:
+"Worked on backend development."
+Better:
+"Built and maintained FastAPI services, optimized PostgreSQL queries, and reduced average API latency by 28%."
+
+Weak:
+"Did marketing campaigns."
+Better:
+"Planned and optimized paid acquisition campaigns across Google Ads and Meta Ads, improving lead-to-demo conversion by 16%."
+
+Weak:
+"Tested application features."
+Better:
+"Designed regression suites in Cypress and Postman, reduced manual smoke testing time by 40%, and improved release confidence."
+
+Keyword Alignment Strategy
+Mirror vacancy language when it is truthful and supported by evidence. If the vacancy says FastAPI, PostgreSQL, Docker, and AWS, those exact terms should appear in the resume if the candidate has used them. Avoid replacing common job terms with vague synonyms because retrieval and screening systems often rank exact overlap strongly.
+
+Evidence Strategy
+A resume should show evidence for each key skill:
+Skill name.
+Where it was used.
+At what scale or in what scenario.
+What result it produced.
+Without evidence, the assistant should treat the skill as weaker than a demonstrated skill.
+
+Metrics That Strengthen a Resume
+Use metrics wherever possible:
+latency reduced
+conversion improved
+defects prevented
+reports automated
+time saved
+revenue influenced
+cost reduced
+stakeholders served
+dashboard adoption
+test coverage increased
+
+ATS and Parsing Rules
+Keep formatting simple.
+Avoid tables, multi-column layouts, icons, and overly designed templates.
+Use standard section names.
+Prefer PDF or clean text export.
+Use one spelling consistently for important skills, for example "C#" and ".NET" rather than many inconsistent variants.
+
+Common Resume Problems
+Too many low-value tools listed without depth.
+No clear target role.
+No measurable outcomes.
+Skills not reflected in work history.
+Generic summary.
+Outdated stack dominating the resume.
+Missing location, employment preference, or seniority cues.
+
+Advice by Situation
+For junior candidates:
+Emphasize projects, internships, coursework, certifications, and learning velocity.
+
+For mid-level candidates:
+Emphasize ownership, delivery, cross-functional collaboration, and reliability.
+
+For senior candidates:
+Emphasize architecture decisions, mentoring, process improvement, stakeholder communication, and business impact.
+
+How the Assistant Should Use This Document
+When a candidate is missing important keywords, recommend adding only truthful skills backed by projects or work history.
+When experience is too vague, suggest rewriting bullets with action, tool, and measurable outcome.
+When a resume is broad but unfocused, recommend tailoring toward one primary target role.
+When a candidate is changing domains, suggest highlighting transferable skills first and adding targeted projects second.

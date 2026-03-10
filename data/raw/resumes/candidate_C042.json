@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C042",
+  "full_name": "Andrii Tkachenko",
+  "location": "Warsaw",
+  "preferred_locations": [
+    "Warsaw",
+    "Remote"
+  ],
+  "years_experience": 1.2,
+  "seniority_level": "Junior",
+  "skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "api testing",
+    "playwright",
+    "python",
+    "java"
+  ],
+  "primary_stack": "QA Automation",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in computer science or quality engineering; continued learning in qa automation tooling and engineering practices.",
+  "work_history": "Delivered projects focused on validating product quality through manual and automated testing; worked with testing, jira, sql, postman, api testing; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Test Engineer",
+    "QA Engineer"
+  ],
+  "summary": "Junior QA Engineer with 1.2 years of experience in validating product quality through manual and automated testing.",
+  "raw_text": "Andrii Tkachenko is a junior qa engineer based in Warsaw. Experience: 1.2 years. Skills: testing, jira, sql, postman, api testing, playwright, python, java. Target roles: Test Engineer, QA Engineer. Focus: validating product quality through manual and automated testing.",
+  "source_file": "candidate_C042.json"
+}

@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V059",
+  "title": "Marketing Specialist",
+  "company": "MetricWave",
+  "location": "Kharkiv",
+  "employment_type": "hybrid",
+  "years_experience_required": 1.7,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "digital marketing",
+    "content strategy",
+    "seo",
+    "google analytics",
+    "campaign management",
+    "crm",
+    "email marketing"
+  ],
+  "optional_skills": [
+    "market research",
+    "canva"
+  ],
+  "responsibilities": "launch and optimize multichannel campaigns; analyze funnel metrics and campaign performance; coordinate content, design, and sales stakeholders",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in digital marketing, content strategy, seo, google analytics, campaign management. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "MetricWave is hiring a junior marketing specialist to support planning and executing acquisition, retention, and content campaigns.",
+  "raw_text": "Vacancy V059: Marketing Specialist at MetricWave. Location: Kharkiv. Employment: hybrid. Required experience: 1.7 years. Required skills: digital marketing, content strategy, seo, google analytics, campaign management, crm, email marketing. Optional skills: market research, canva. Responsibilities: launch and optimize multichannel campaigns; analyze funnel metrics and campaign performance; coordinate content, design, and sales stakeholders.",
+  "source_file": "vacancy_V059.json"
+}

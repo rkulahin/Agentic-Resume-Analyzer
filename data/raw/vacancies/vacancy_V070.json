@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "V070",
+  "title": "ASP.NET Core Developer",
+  "company": "CoreStack",
+  "location": "Lviv",
+  "employment_type": "full-time",
+  "years_experience_required": 1.5,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "redis",
+    "blazor",
+    "azure",
+    "docker"
+  ],
+  "optional_skills": [
+    "kubernetes",
+    "message queues",
+    "clean architecture"
+  ],
+  "responsibilities": "develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in c#, .net, asp.net core, sql server, entity framework. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CoreStack is hiring a junior asp.net core developer to support building enterprise backend systems and internal business applications.",
+  "raw_text": "Vacancy V070: ASP.NET Core Developer at CoreStack. Location: Lviv. Employment: full-time. Required experience: 1.5 years. Required skills: c#, .net, asp.net core, sql server, entity framework, redis, blazor, azure, docker. Optional skills: kubernetes, message queues, clean architecture. Responsibilities: develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow.",
+  "source_file": "vacancy_V070.json"
+}

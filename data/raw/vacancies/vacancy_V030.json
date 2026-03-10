@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V030",
+  "title": "Data Analyst",
+  "company": "InsightFlow",
+  "location": "Dnipro",
+  "employment_type": "contract",
+  "years_experience_required": 1.1,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "airflow",
+    "looker"
+  ],
+  "optional_skills": [
+    "ga4",
+    "data storytelling",
+    "dbt"
+  ],
+  "responsibilities": "prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in sql, python, excel, tableau, airflow. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "InsightFlow is hiring a junior data analyst to support analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Vacancy V030: Data Analyst at InsightFlow. Location: Dnipro. Employment: contract. Required experience: 1.1 years. Required skills: sql, python, excel, tableau, airflow, looker. Optional skills: ga4, data storytelling, dbt. Responsibilities: prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items.",
+  "source_file": "vacancy_V030.json"
+}

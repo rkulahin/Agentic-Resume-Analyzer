@@ -1,0 +1,69 @@
+Audit Guide: Matching Criteria, Signals, and Advice
+
+Purpose
+This guide supports retrieval for Audit Specialist, Internal Auditor, and Audit Associate roles.
+
+Core Skills Recruiters Expect
+Audit fundamentals:
+audit procedures
+control testing
+risk assessment
+documentation quality
+sampling logic
+finding analysis
+
+Financial and reporting literacy:
+financial statements
+financial reporting
+IFRS or GAAP awareness
+materiality concepts
+process understanding
+
+Operational and compliance perspective:
+internal controls
+policy review
+compliance checks
+process walkthroughs
+stakeholder interviews
+
+Tools and analysis support:
+Excel
+ERP or SAP familiarity
+evidence organization
+basic data analysis
+
+Signals of a Strong Candidate
+Can explain how to assess risk and test controls.
+Documents findings clearly and professionally.
+Understands how business processes connect to financial and compliance risk.
+Can identify control weaknesses and recommend practical improvements.
+Communicates well with process owners and management.
+
+Important Resume Evidence
+Types of audits performed.
+Industries or processes reviewed.
+Control testing and reporting responsibilities.
+Documentation rigor.
+Improvements or risk reductions influenced by the candidate.
+
+Common Gaps
+Finance background without audit procedure depth.
+Audit support work without risk or control reasoning.
+No reporting standards awareness.
+Heavy tool focus but weak judgment and documentation.
+No stakeholder-facing experience.
+
+Advice by Seniority
+Junior:
+Show audit support tasks, documentation quality, Excel proficiency, and understanding of controls and evidence.
+
+Middle:
+Show ownership of sections of the audit cycle, stronger risk reasoning, and communication of findings.
+
+Senior:
+Show audit planning, stakeholder management, issue prioritization, and recommendations that influence controls or governance.
+
+What to Emphasize in Matching Explanations
+Matched_skills should prioritize audit procedures, controls, risk assessment, reporting literacy, and documentation quality.
+Missing_skills should prioritize control-testing depth and standards awareness before secondary tooling.
+Strong explanations should mention judgment, evidence quality, and business risk understanding.

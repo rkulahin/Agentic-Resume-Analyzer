@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V005",
+  "title": "Frontend Engineer",
+  "company": "VectorApps",
+  "location": "Warsaw",
+  "employment_type": "hybrid",
+  "years_experience_required": 1.3,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "cypress",
+    "tailwind",
+    "vite"
+  ],
+  "optional_skills": [
+    "performance optimization",
+    "storybook"
+  ],
+  "responsibilities": "build reusable frontend components; integrate REST and GraphQL APIs; improve page performance and accessibility",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in react, javascript, typescript, html, css. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "VectorApps is hiring a junior frontend engineer to support building responsive product interfaces and reusable UI components.",
+  "raw_text": "Vacancy V005: Frontend Engineer at VectorApps. Location: Warsaw. Employment: hybrid. Required experience: 1.3 years. Required skills: react, javascript, typescript, html, css, cypress, tailwind, vite. Optional skills: performance optimization, storybook. Responsibilities: build reusable frontend components; integrate REST and GraphQL APIs; improve page performance and accessibility.",
+  "source_file": "vacancy_V005.json"
+}

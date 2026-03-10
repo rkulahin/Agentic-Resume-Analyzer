@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "V061",
+  "title": "Growth Marketing Specialist",
+  "company": "NovaSoft",
+  "location": "Warsaw",
+  "employment_type": "full-time",
+  "years_experience_required": 2.0,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "digital marketing",
+    "content strategy",
+    "seo",
+    "google analytics",
+    "campaign management",
+    "smm",
+    "copywriting",
+    "hubspot",
+    "meta ads"
+  ],
+  "optional_skills": [
+    "landing pages",
+    "a/b testing"
+  ],
+  "responsibilities": "launch and optimize multichannel campaigns; analyze funnel metrics and campaign performance; coordinate content, design, and sales stakeholders",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in digital marketing, content strategy, seo, google analytics, campaign management. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "NovaSoft is hiring a middle growth marketing specialist to support planning and executing acquisition, retention, and content campaigns.",
+  "raw_text": "Vacancy V061: Growth Marketing Specialist at NovaSoft. Location: Warsaw. Employment: full-time. Required experience: 2.0 years. Required skills: digital marketing, content strategy, seo, google analytics, campaign management, smm, copywriting, hubspot, meta ads. Optional skills: landing pages, a/b testing. Responsibilities: launch and optimize multichannel campaigns; analyze funnel metrics and campaign performance; coordinate content, design, and sales stakeholders.",
+  "source_file": "vacancy_V061.json"
+}

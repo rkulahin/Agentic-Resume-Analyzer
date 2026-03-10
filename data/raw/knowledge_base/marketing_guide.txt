@@ -1,0 +1,69 @@
+Marketing Guide: Matching Criteria, Signals, and Advice
+
+Purpose
+This guide supports retrieval for digital marketing, growth marketing, performance marketing, and general marketing specialist roles.
+
+Core Skills Recruiters Expect
+Channel and campaign execution:
+digital marketing
+campaign management
+email marketing
+social media marketing
+paid acquisition
+content strategy
+
+Performance tooling:
+Google Analytics
+Google Ads
+Meta Ads
+CRM systems
+marketing automation tools such as HubSpot
+
+Optimization and measurement:
+funnel analysis
+conversion rate optimization
+A/B testing
+audience segmentation
+reporting and attribution basics
+
+Content and communication:
+copywriting
+landing page collaboration
+creative briefing
+stakeholder coordination
+
+Signals of a Strong Candidate
+Can connect activities to business outcomes such as leads, pipeline, CAC, ROAS, conversion rate, or retention.
+Can explain why a channel or tactic was selected.
+Can interpret campaign data and make optimization decisions.
+Can coordinate across content, design, sales, and product teams.
+Shows both strategic thinking and hands-on execution.
+
+Important Resume Evidence
+Budget sizes or campaign scale.
+Lead generation or conversion improvements.
+Channel mix used.
+Reporting cadence and business stakeholders supported.
+Examples of experiments and optimization cycles.
+
+Common Gaps
+Marketing tools listed without business impact.
+Content experience without analytics depth.
+Paid acquisition experience without attribution understanding.
+Good execution but no prioritization logic.
+No evidence of funnel thinking or experimentation.
+
+Advice by Seniority
+Junior:
+Show campaign support tasks, analytics basics, content production, and one metrics-driven case study.
+
+Middle:
+Show channel ownership, reporting, optimization loops, and measurable growth outcomes.
+
+Senior:
+Show strategy, budget decisions, cross-functional leadership, and business impact over time.
+
+What to Emphasize in Matching Explanations
+Matched_skills should prioritize channel execution, analytics, campaign optimization, and business metrics.
+Missing_skills should prioritize measurable performance and channel depth before cosmetic marketing tools.
+Strong explanations should mention both execution quality and growth impact.

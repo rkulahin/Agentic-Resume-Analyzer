@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V075",
+  "title": ".NET Backend Engineer",
+  "company": "BrightLabs",
+  "location": "Warsaw",
+  "employment_type": "contract",
+  "years_experience_required": 2.6,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "xunit",
+    "rest api",
+    "redis"
+  ],
+  "optional_skills": [
+    "kubernetes",
+    "message queues"
+  ],
+  "responsibilities": "develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in c#, .net, asp.net core, sql server, entity framework. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "BrightLabs is hiring a middle .net backend engineer to support building enterprise backend systems and internal business applications.",
+  "raw_text": "Vacancy V075: .NET Backend Engineer at BrightLabs. Location: Warsaw. Employment: contract. Required experience: 2.6 years. Required skills: c#, .net, asp.net core, sql server, entity framework, xunit, rest api, redis. Optional skills: kubernetes, message queues. Responsibilities: develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow.",
+  "source_file": "vacancy_V075.json"
+}

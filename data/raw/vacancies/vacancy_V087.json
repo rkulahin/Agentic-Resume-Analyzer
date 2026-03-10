@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V087",
+  "title": "Internal Auditor",
+  "company": "BrightLabs",
+  "location": "Kharkiv",
+  "employment_type": "contract",
+  "years_experience_required": 2.6,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "audit",
+    "excel",
+    "financial reporting",
+    "internal controls",
+    "risk assessment",
+    "documentation",
+    "process review",
+    "compliance"
+  ],
+  "optional_skills": [
+    "power bi",
+    "sox"
+  ],
+  "responsibilities": "perform audit procedures and control testing; document findings and prepare audit reports; recommend improvements for compliance and risk mitigation",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in audit, excel, financial reporting, internal controls, risk assessment. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "BrightLabs is hiring a middle internal auditor to support reviewing financial processes, controls, and compliance activities.",
+  "raw_text": "Vacancy V087: Internal Auditor at BrightLabs. Location: Kharkiv. Employment: contract. Required experience: 2.6 years. Required skills: audit, excel, financial reporting, internal controls, risk assessment, documentation, process review, compliance. Optional skills: power bi, sox. Responsibilities: perform audit procedures and control testing; document findings and prepare audit reports; recommend improvements for compliance and risk mitigation.",
+  "source_file": "vacancy_V087.json"
+}

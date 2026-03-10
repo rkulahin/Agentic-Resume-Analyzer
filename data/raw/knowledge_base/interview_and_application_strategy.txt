@@ -1,0 +1,67 @@
+Interview and Application Strategy for the Ukrainian and Remote Tech Market
+
+Purpose
+This document helps an assistant generate practical follow-up advice after matching. It is useful when a candidate asks what to do next after finding suitable roles or when they need help preparing for interviews.
+
+Application Strategy
+Apply selectively, not randomly. Prioritize roles where the candidate meets most core requirements and can explain remaining gaps. Tailor the resume summary, skills section, and top two experience entries to each application cluster.
+
+A good application package usually includes:
+a role-specific resume
+a concise LinkedIn profile aligned with the same title and keywords
+a short cover note when the role is highly competitive or unusual
+a portfolio, GitHub, or work samples when relevant
+
+Interview Preparation Layers
+Layer 1: Resume defense
+The candidate should be able to explain every bullet, every technology, and every number on the resume. If a line cannot be defended with confidence, it weakens credibility.
+
+Layer 2: Core fundamentals
+Review the foundations of the target role. Frontend candidates should explain rendering, state, performance, and accessibility. Backend candidates should explain APIs, databases, scaling, and testing. Analysts should explain SQL logic, metrics, dashboards, and statistics. Audit and tax candidates should explain controls, reporting, compliance, and documentation.
+
+Layer 3: Case or scenario practice
+Many strong candidates fail because they know tools but cannot reason through realistic scenarios. Practice role-specific cases, trade-offs, and structured problem solving.
+
+Layer 4: Behavioral communication
+Use STAR stories for conflict, failure, ownership, learning, and stakeholder collaboration. Strong communication often differentiates candidates with similar technical depth.
+
+What the Assistant Should Recommend by Domain
+Engineering roles:
+Practice system design, code reasoning, trade-offs, debugging stories, and production incident examples.
+
+QA roles:
+Prepare examples of test strategy, bug investigation, automation decisions, release risk assessment, and collaboration with developers.
+
+Data roles:
+Prepare SQL walkthroughs, dashboard choices, metric definitions, stakeholder communication, and analysis limitations.
+
+Marketing roles:
+Prepare channel strategy examples, funnel metrics, campaign optimization logic, and budget trade-offs.
+
+Audit roles:
+Prepare examples of control testing, risk identification, documentation quality, and audit findings.
+
+Tax roles:
+Prepare examples of compliance workflows, tax risk scenarios, legislation interpretation, and client communication.
+
+Practical Preparation Tips
+Review the company, product, and business model.
+Prepare role-specific questions for the interviewer.
+Practice explaining decisions out loud.
+Test remote interview setup in advance.
+Know salary expectations and preferred contract format.
+Prepare to explain location, availability, and language level clearly.
+
+Common Failure Patterns
+Generic answers without examples.
+Weak understanding of the exact vacancy.
+No measurable impact in stories.
+Confusing tool familiarity with production-level experience.
+Poorly explained career changes.
+No questions for the interviewer.
+
+How the Assistant Should Use This Document
+After recommending top vacancies, suggest the next 2-3 preparation steps.
+If a candidate has strong fit but weak evidence, focus advice on storytelling and examples.
+If a candidate has medium fit, focus advice on resume tailoring and interview defense.
+If a candidate has a large gap, focus advice on learning plan before aggressive job applications.

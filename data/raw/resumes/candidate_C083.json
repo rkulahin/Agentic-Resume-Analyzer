@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C083",
+  "full_name": "Iryna Polishchuk",
+  "location": "Odesa",
+  "preferred_locations": [
+    "Odesa",
+    "Remote"
+  ],
+  "years_experience": 2.0,
+  "seniority_level": "Junior",
+  "skills": [
+    "audit",
+    "excel",
+    "financial reporting",
+    "internal controls",
+    "risk assessment",
+    "data analysis",
+    "ifrs"
+  ],
+  "primary_stack": "Audit",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in accounting, finance, or auditing; continued learning in audit tooling and engineering practices.",
+  "work_history": "Delivered projects focused on reviewing financial processes, controls, and compliance activities; worked with audit, excel, financial reporting, internal controls, risk assessment; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Audit Specialist",
+    "Internal Auditor"
+  ],
+  "summary": "Junior Audit Specialist with 2.0 years of experience in reviewing financial processes, controls, and compliance activities.",
+  "raw_text": "Iryna Polishchuk is a junior audit specialist based in Odesa. Experience: 2.0 years. Skills: audit, excel, financial reporting, internal controls, risk assessment, data analysis, ifrs. Target roles: Audit Specialist, Internal Auditor. Focus: reviewing financial processes, controls, and compliance activities.",
+  "source_file": "candidate_C083.json"
+}

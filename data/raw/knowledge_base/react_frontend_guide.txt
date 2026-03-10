@@ -1,0 +1,65 @@
+React Frontend Guide: Matching Criteria, Signals, and Advice
+
+Purpose
+This guide supports explanation and retrieval for React, frontend, and UI engineering roles.
+
+Core Skills Recruiters Expect
+Strong React fundamentals:
+components
+props
+state
+hooks
+render lifecycle
+state management patterns
+
+Frontend platform basics:
+javascript
+typescript
+html
+css
+responsive design
+semantic markup
+accessibility
+
+Common production tools:
+Next.js
+Redux or equivalent state management
+REST and GraphQL integration
+testing with Jest, React Testing Library, Cypress, or Playwright
+bundling and build tooling such as Vite or Webpack
+
+Signals of a Strong Candidate
+Can explain component architecture and data flow.
+Has experience building reusable UI components or design-system-style patterns.
+Understands performance issues such as unnecessary renders, bundle size, memoization, and lazy loading.
+Shows collaboration with designers, backend engineers, and product teams.
+Can describe business outcomes, not only UI tasks.
+
+Important Resume Evidence
+Pages or features shipped.
+Performance or accessibility improvements.
+Design system or shared component work.
+API integration complexity.
+Testing and release confidence improvements.
+
+Common Gaps
+Knows React but lacks TypeScript.
+Built simple pages but not scalable state management.
+Has UI experience but no testing evidence.
+Strong JavaScript but weak accessibility awareness.
+Lists many libraries but cannot explain architectural decisions.
+
+Advice by Seniority
+Junior:
+Show projects with routing, forms, API calls, state management, and testing basics.
+
+Middle:
+Show ownership of feature delivery, reusable abstractions, performance optimization, and cross-team collaboration.
+
+Senior:
+Show frontend architecture, standards, mentoring, quality practices, and trade-off decisions.
+
+What to Emphasize in Matching Explanations
+Matched_skills should prioritize React, TypeScript, API integration, testing, and Next.js when present.
+Missing_skills should prioritize TypeScript, testing, accessibility, and scalable architecture before low-impact libraries.
+Strong explanations should mention both user-facing delivery and engineering quality.

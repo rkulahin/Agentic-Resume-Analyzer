@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C017",
+  "full_name": "Marta Mazur",
+  "location": "Remote",
+  "preferred_locations": [
+    "Remote",
+    "Dnipro"
+  ],
+  "years_experience": 1.4,
+  "seniority_level": "Junior",
+  "skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "sqlalchemy",
+    "pytest"
+  ],
+  "primary_stack": "Python",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in computer science; continued learning in python tooling and engineering practices.",
+  "work_history": "Delivered projects focused on developing backend services, APIs, and data-driven platform features; worked with python, fastapi, django, postgresql, docker; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Python Developer",
+    "Backend Engineer"
+  ],
+  "summary": "Junior Python Backend Developer with 1.4 years of experience in developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Marta Mazur is a junior python backend developer based in Remote. Experience: 1.4 years. Skills: python, fastapi, django, postgresql, docker, sqlalchemy, pytest. Target roles: Python Developer, Backend Engineer. Focus: developing backend services, APIs, and data-driven platform features.",
+  "source_file": "candidate_C017.json"
+}

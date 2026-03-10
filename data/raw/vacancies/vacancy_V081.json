@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V081",
+  "title": "Internal Auditor",
+  "company": "PixelCraft",
+  "location": "Odesa",
+  "employment_type": "contract",
+  "years_experience_required": 1.3,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "audit",
+    "excel",
+    "financial reporting",
+    "internal controls",
+    "risk assessment",
+    "process review",
+    "compliance",
+    "data analysis"
+  ],
+  "optional_skills": [
+    "policy review",
+    "power bi"
+  ],
+  "responsibilities": "perform audit procedures and control testing; document findings and prepare audit reports; recommend improvements for compliance and risk mitigation",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in audit, excel, financial reporting, internal controls, risk assessment. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "PixelCraft is hiring a junior internal auditor to support reviewing financial processes, controls, and compliance activities.",
+  "raw_text": "Vacancy V081: Internal Auditor at PixelCraft. Location: Odesa. Employment: contract. Required experience: 1.3 years. Required skills: audit, excel, financial reporting, internal controls, risk assessment, process review, compliance, data analysis. Optional skills: policy review, power bi. Responsibilities: perform audit procedures and control testing; document findings and prepare audit reports; recommend improvements for compliance and risk mitigation.",
+  "source_file": "vacancy_V081.json"
+}

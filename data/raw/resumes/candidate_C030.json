@@ -1,0 +1,33 @@
+{
+  "candidate_id": "C030",
+  "full_name": "Roman Savchenko",
+  "location": "Lviv",
+  "preferred_locations": [
+    "Lviv",
+    "Remote"
+  ],
+  "years_experience": 1.4,
+  "seniority_level": "Junior",
+  "skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "airflow",
+    "looker"
+  ],
+  "primary_stack": "Analytics",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in analytics, economics, or applied mathematics; continued learning in analytics tooling and engineering practices.",
+  "work_history": "Delivered projects focused on analyzing business metrics, building dashboards, and explaining trends; worked with sql, python, excel, tableau, airflow; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Data Analyst",
+    "BI Analyst"
+  ],
+  "summary": "Junior Data Analyst with 1.4 years of experience in analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Roman Savchenko is a junior data analyst based in Lviv. Experience: 1.4 years. Skills: sql, python, excel, tableau, airflow, looker. Target roles: Data Analyst, BI Analyst. Focus: analyzing business metrics, building dashboards, and explaining trends.",
+  "source_file": "candidate_C030.json"
+}

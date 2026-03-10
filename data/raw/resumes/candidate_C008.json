@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C008",
+  "full_name": "Yaroslav Koval",
+  "location": "Kyiv",
+  "preferred_locations": [
+    "Kyiv",
+    "Remote"
+  ],
+  "years_experience": 2.2,
+  "seniority_level": "Junior",
+  "skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "redux",
+    "next.js",
+    "graphql"
+  ],
+  "primary_stack": "React",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in software engineering; continued learning in react tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building responsive product interfaces and reusable UI components; worked with react, javascript, typescript, html, css; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "React Developer",
+    "UI Engineer"
+  ],
+  "summary": "Junior React Developer with 2.2 years of experience in building responsive product interfaces and reusable UI components.",
+  "raw_text": "Yaroslav Koval is a junior react developer based in Kyiv. Experience: 2.2 years. Skills: react, javascript, typescript, html, css, redux, next.js, graphql. Target roles: React Developer, UI Engineer. Focus: building responsive product interfaces and reusable UI components.",
+  "source_file": "candidate_C008.json"
+}

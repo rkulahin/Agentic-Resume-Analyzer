@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V004",
+  "title": "React Developer",
+  "company": "CloudForge",
+  "location": "Odesa",
+  "employment_type": "full-time",
+  "years_experience_required": 1.1,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "jest",
+    "cypress"
+  ],
+  "optional_skills": [
+    "accessibility",
+    "performance optimization",
+    "storybook"
+  ],
+  "responsibilities": "build reusable frontend components; integrate REST and GraphQL APIs; improve page performance and accessibility",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in react, javascript, typescript, html, css. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CloudForge is hiring a junior react developer to support building responsive product interfaces and reusable UI components.",
+  "raw_text": "Vacancy V004: React Developer at CloudForge. Location: Odesa. Employment: full-time. Required experience: 1.1 years. Required skills: react, javascript, typescript, html, css, jest, cypress. Optional skills: accessibility, performance optimization, storybook. Responsibilities: build reusable frontend components; integrate REST and GraphQL APIs; improve page performance and accessibility.",
+  "source_file": "vacancy_V004.json"
+}

@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C085",
+  "full_name": "Sofiia Kushnir",
+  "location": "Kyiv",
+  "preferred_locations": [
+    "Kyiv",
+    "Remote"
+  ],
+  "years_experience": 2.0,
+  "seniority_level": "Middle",
+  "skills": [
+    "audit",
+    "excel",
+    "financial reporting",
+    "internal controls",
+    "risk assessment",
+    "gaap",
+    "sap",
+    "documentation",
+    "process review"
+  ],
+  "primary_stack": "Audit",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in accounting, finance, or auditing; continued learning in audit tooling and engineering practices.",
+  "work_history": "Delivered projects focused on reviewing financial processes, controls, and compliance activities; worked with audit, excel, financial reporting, internal controls, risk assessment; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Audit Associate",
+    "Audit Specialist"
+  ],
+  "summary": "Middle Audit Specialist with 2.0 years of experience in reviewing financial processes, controls, and compliance activities.",
+  "raw_text": "Sofiia Kushnir is a middle audit specialist based in Kyiv. Experience: 2.0 years. Skills: audit, excel, financial reporting, internal controls, risk assessment, gaap, sap, documentation, process review. Target roles: Audit Associate, Audit Specialist. Focus: reviewing financial processes, controls, and compliance activities.",
+  "source_file": "candidate_C085.json"
+}

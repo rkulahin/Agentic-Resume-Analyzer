@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "V058",
+  "title": "Growth Marketing Specialist",
+  "company": "CoreStack",
+  "location": "Dnipro",
+  "employment_type": "full-time",
+  "years_experience_required": 1.5,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "digital marketing",
+    "content strategy",
+    "seo",
+    "google analytics",
+    "campaign management",
+    "google ads",
+    "crm",
+    "email marketing",
+    "smm"
+  ],
+  "optional_skills": [
+    "brand strategy",
+    "market research",
+    "canva"
+  ],
+  "responsibilities": "launch and optimize multichannel campaigns; analyze funnel metrics and campaign performance; coordinate content, design, and sales stakeholders",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in digital marketing, content strategy, seo, google analytics, campaign management. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CoreStack is hiring a junior growth marketing specialist to support planning and executing acquisition, retention, and content campaigns.",
+  "raw_text": "Vacancy V058: Growth Marketing Specialist at CoreStack. Location: Dnipro. Employment: full-time. Required experience: 1.5 years. Required skills: digital marketing, content strategy, seo, google analytics, campaign management, google ads, crm, email marketing, smm. Optional skills: brand strategy, market research, canva. Responsibilities: launch and optimize multichannel campaigns; analyze funnel metrics and campaign performance; coordinate content, design, and sales stakeholders.",
+  "source_file": "vacancy_V058.json"
+}

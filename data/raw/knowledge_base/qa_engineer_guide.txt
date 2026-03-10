@@ -1,0 +1,69 @@
+QA Engineer Guide: Matching Criteria, Signals, and Advice
+
+Purpose
+This guide supports retrieval for QA, test engineering, and automation-focused roles.
+
+Core Skills Recruiters Expect
+Testing fundamentals:
+functional testing
+regression testing
+integration testing
+end-to-end testing
+risk-based testing
+bug reporting
+
+Execution tools:
+Postman
+Jira
+test case management
+clear reproduction steps
+
+Automation tools:
+Selenium
+Cypress
+Playwright
+API automation
+scripting in Python, JavaScript, or Java
+
+Process knowledge:
+Agile delivery
+release support
+CI/CD integration
+test strategy
+coverage planning
+
+Signals of a Strong Candidate
+Can explain when to automate and when not to automate.
+Can design test strategy for a feature, not only execute scripts.
+Produces clear bug reports and prioritizes issues by risk.
+Understands product flows and edge cases.
+Collaborates effectively with developers and product stakeholders.
+
+Important Resume Evidence
+Regression time reduced.
+Coverage increased.
+Automation suites created or maintained.
+API and UI testing depth.
+Release quality improvements or escaped defect reduction.
+
+Common Gaps
+Only manual testing with no evidence of structured strategy.
+Automation tool listed without code or framework ownership.
+Weak API testing.
+No CI/CD or release process exposure.
+No measurable quality outcomes.
+
+Advice by Seniority
+Junior:
+Show strong test case thinking, defect communication, SQL basics, and one automation starter project if possible.
+
+Middle:
+Show ownership of regression strategy, API and UI coverage, and collaboration across sprints.
+
+Senior:
+Show quality strategy, framework decisions, release risk management, and mentoring or process improvement.
+
+What to Emphasize in Matching Explanations
+Matched_skills should prioritize testing fundamentals, automation depth, API testing, and process maturity.
+Missing_skills should prioritize automation evidence and release-quality thinking before secondary tools.
+Strong explanations should mention coverage, reliability, and communication quality.

@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C004",
+  "full_name": "Maksym Hrytsenko",
+  "location": "Dnipro",
+  "preferred_locations": [
+    "Dnipro",
+    "Remote"
+  ],
+  "years_experience": 1.4,
+  "seniority_level": "Junior",
+  "skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "jest",
+    "cypress"
+  ],
+  "primary_stack": "React",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in software engineering; continued learning in react tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building responsive product interfaces and reusable UI components; worked with react, javascript, typescript, html, css; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Frontend Developer",
+    "React Developer"
+  ],
+  "summary": "Junior React Developer with 1.4 years of experience in building responsive product interfaces and reusable UI components.",
+  "raw_text": "Maksym Hrytsenko is a junior react developer based in Dnipro. Experience: 1.4 years. Skills: react, javascript, typescript, html, css, jest, cypress. Target roles: Frontend Developer, React Developer. Focus: building responsive product interfaces and reusable UI components.",
+  "source_file": "candidate_C004.json"
+}

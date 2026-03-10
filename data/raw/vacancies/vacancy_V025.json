@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "V025",
+  "title": "Backend Python Engineer",
+  "company": "NovaSoft",
+  "location": "Odesa",
+  "employment_type": "full-time",
+  "years_experience_required": 2.9,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "pytest",
+    "flask",
+    "kubernetes",
+    "aws"
+  ],
+  "optional_skills": [
+    "terraform",
+    "prometheus",
+    "microservices"
+  ],
+  "responsibilities": "design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in python, fastapi, django, postgresql, docker. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "NovaSoft is hiring a middle backend python engineer to support developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Vacancy V025: Backend Python Engineer at NovaSoft. Location: Odesa. Employment: full-time. Required experience: 2.9 years. Required skills: python, fastapi, django, postgresql, docker, pytest, flask, kubernetes, aws. Optional skills: terraform, prometheus, microservices. Responsibilities: design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring.",
+  "source_file": "vacancy_V025.json"
+}

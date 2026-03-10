@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "V072",
+  "title": ".NET Backend Engineer",
+  "company": "LaunchPoint",
+  "location": "Dnipro",
+  "employment_type": "contract",
+  "years_experience_required": 1.9,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "azure",
+    "docker",
+    "microservices"
+  ],
+  "optional_skills": [
+    "clean architecture",
+    "ci/cd",
+    "gRPC"
+  ],
+  "responsibilities": "develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in c#, .net, asp.net core, sql server, entity framework. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "LaunchPoint is hiring a junior .net backend engineer to support building enterprise backend systems and internal business applications.",
+  "raw_text": "Vacancy V072: .NET Backend Engineer at LaunchPoint. Location: Dnipro. Employment: contract. Required experience: 1.9 years. Required skills: c#, .net, asp.net core, sql server, entity framework, azure, docker, microservices. Optional skills: clean architecture, ci/cd, gRPC. Responsibilities: develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow.",
+  "source_file": "vacancy_V072.json"
+}

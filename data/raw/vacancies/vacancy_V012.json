@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "V012",
+  "title": "Next.js Developer",
+  "company": "LaunchPoint",
+  "location": "Warsaw",
+  "employment_type": "contract",
+  "years_experience_required": 2.9,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "cypress",
+    "tailwind",
+    "vite",
+    "redux"
+  ],
+  "optional_skills": [
+    "figma",
+    "webpack",
+    "accessibility"
+  ],
+  "responsibilities": "build reusable frontend components; integrate REST and GraphQL APIs; improve page performance and accessibility",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in react, javascript, typescript, html, css. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "LaunchPoint is hiring a middle next.js developer to support building responsive product interfaces and reusable UI components.",
+  "raw_text": "Vacancy V012: Next.js Developer at LaunchPoint. Location: Warsaw. Employment: contract. Required experience: 2.9 years. Required skills: react, javascript, typescript, html, css, cypress, tailwind, vite, redux. Optional skills: figma, webpack, accessibility. Responsibilities: build reusable frontend components; integrate REST and GraphQL APIs; improve page performance and accessibility.",
+  "source_file": "vacancy_V012.json"
+}

@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V010",
+  "title": "React Developer",
+  "company": "CoreStack",
+  "location": "Kharkiv",
+  "employment_type": "full-time",
+  "years_experience_required": 2.3,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "graphql",
+    "jest"
+  ],
+  "optional_skills": [
+    "performance optimization",
+    "storybook",
+    "figma"
+  ],
+  "responsibilities": "build reusable frontend components; integrate REST and GraphQL APIs; improve page performance and accessibility",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in react, javascript, typescript, html, css. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CoreStack is hiring a middle react developer to support building responsive product interfaces and reusable UI components.",
+  "raw_text": "Vacancy V010: React Developer at CoreStack. Location: Kharkiv. Employment: full-time. Required experience: 2.3 years. Required skills: react, javascript, typescript, html, css, graphql, jest. Optional skills: performance optimization, storybook, figma. Responsibilities: build reusable frontend components; integrate REST and GraphQL APIs; improve page performance and accessibility.",
+  "source_file": "vacancy_V010.json"
+}

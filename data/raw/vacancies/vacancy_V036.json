@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V036",
+  "title": "Data Analyst",
+  "company": "LaunchPoint",
+  "location": "Remote",
+  "employment_type": "contract",
+  "years_experience_required": 2.3,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "statistics",
+    "airflow"
+  ],
+  "optional_skills": [
+    "data storytelling",
+    "dbt",
+    "forecasting"
+  ],
+  "responsibilities": "prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in sql, python, excel, tableau, statistics. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "LaunchPoint is hiring a middle data analyst to support analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Vacancy V036: Data Analyst at LaunchPoint. Location: Remote. Employment: contract. Required experience: 2.3 years. Required skills: sql, python, excel, tableau, statistics, airflow. Optional skills: data storytelling, dbt, forecasting. Responsibilities: prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items.",
+  "source_file": "vacancy_V036.json"
+}

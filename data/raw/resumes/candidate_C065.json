@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C065",
+  "full_name": "Sofiia Kushnir",
+  "location": "Lviv",
+  "preferred_locations": [
+    "Lviv",
+    "Remote"
+  ],
+  "years_experience": 0.8,
+  "seniority_level": "Junior",
+  "skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "azure",
+    "docker"
+  ],
+  "primary_stack": ".NET",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in software engineering or computer science; continued learning in .net tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building enterprise backend systems and internal business applications; worked with c#, .net, asp.net core, sql server, entity framework; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "C# Developer",
+    ".NET Engineer"
+  ],
+  "summary": "Junior C# .NET Developer with 0.8 years of experience in building enterprise backend systems and internal business applications.",
+  "raw_text": "Sofiia Kushnir is a junior c# .net developer based in Lviv. Experience: 0.8 years. Skills: c#, .net, asp.net core, sql server, entity framework, azure, docker. Target roles: C# Developer, .NET Engineer. Focus: building enterprise backend systems and internal business applications.",
+  "source_file": "candidate_C065.json"
+}

@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C047",
+  "full_name": "Kateryna Korniienko",
+  "location": "Kharkiv",
+  "preferred_locations": [
+    "Kharkiv",
+    "Remote"
+  ],
+  "years_experience": 2.2,
+  "seniority_level": "Junior",
+  "skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "selenium",
+    "cypress",
+    "api testing"
+  ],
+  "primary_stack": "QA Automation",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in computer science or quality engineering; continued learning in qa automation tooling and engineering practices.",
+  "work_history": "Delivered projects focused on validating product quality through manual and automated testing; worked with testing, jira, sql, postman, selenium; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Automation QA",
+    "Test Engineer"
+  ],
+  "summary": "Junior QA Engineer with 2.2 years of experience in validating product quality through manual and automated testing.",
+  "raw_text": "Kateryna Korniienko is a junior qa engineer based in Kharkiv. Experience: 2.2 years. Skills: testing, jira, sql, postman, selenium, cypress, api testing. Target roles: Automation QA, Test Engineer. Focus: validating product quality through manual and automated testing.",
+  "source_file": "candidate_C047.json"
+}

@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C068",
+  "full_name": "Yaroslav Koval",
+  "location": "Kharkiv",
+  "preferred_locations": [
+    "Kharkiv",
+    "Remote"
+  ],
+  "years_experience": 1.4,
+  "seniority_level": "Junior",
+  "skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "xunit",
+    "rest api"
+  ],
+  "primary_stack": ".NET",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in software engineering or computer science; continued learning in .net tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building enterprise backend systems and internal business applications; worked with c#, .net, asp.net core, sql server, entity framework; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "C# Developer",
+    ".NET Engineer"
+  ],
+  "summary": "Junior C# .NET Developer with 1.4 years of experience in building enterprise backend systems and internal business applications.",
+  "raw_text": "Yaroslav Koval is a junior c# .net developer based in Kharkiv. Experience: 1.4 years. Skills: c#, .net, asp.net core, sql server, entity framework, xunit, rest api. Target roles: C# Developer, .NET Engineer. Focus: building enterprise backend systems and internal business applications.",
+  "source_file": "candidate_C068.json"
+}

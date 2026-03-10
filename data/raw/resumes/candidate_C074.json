@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C074",
+  "full_name": "Viktor Shapoval",
+  "location": "Dnipro",
+  "preferred_locations": [
+    "Dnipro",
+    "Remote"
+  ],
+  "years_experience": 2.4,
+  "seniority_level": "Middle",
+  "skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "microservices",
+    "xunit"
+  ],
+  "primary_stack": ".NET",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in software engineering or computer science; continued learning in .net tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building enterprise backend systems and internal business applications; worked with c#, .net, asp.net core, sql server, entity framework; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "C# Developer",
+    ".NET Engineer"
+  ],
+  "summary": "Middle C# .NET Developer with 2.4 years of experience in building enterprise backend systems and internal business applications.",
+  "raw_text": "Viktor Shapoval is a middle c# .net developer based in Dnipro. Experience: 2.4 years. Skills: c#, .net, asp.net core, sql server, entity framework, microservices, xunit. Target roles: C# Developer, .NET Engineer. Focus: building enterprise backend systems and internal business applications.",
+  "source_file": "candidate_C074.json"
+}

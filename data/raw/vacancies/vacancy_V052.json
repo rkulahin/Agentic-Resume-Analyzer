@@ -1,0 +1,27 @@
+{
+  "vacancy_id": "V052",
+  "title": "QA Engineer",
+  "company": "CloudForge",
+  "location": "Kharkiv",
+  "employment_type": "full-time",
+  "years_experience_required": 3.2,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "java",
+    "test automation"
+  ],
+  "optional_skills": [
+    "ci/cd",
+    "bug reporting"
+  ],
+  "responsibilities": "create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in testing, jira, sql, postman, java. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CloudForge is hiring a middle qa engineer to support validating product quality through manual and automated testing.",
+  "raw_text": "Vacancy V052: QA Engineer at CloudForge. Location: Kharkiv. Employment: full-time. Required experience: 3.2 years. Required skills: testing, jira, sql, postman, java, test automation. Optional skills: ci/cd, bug reporting. Responsibilities: create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams.",
+  "source_file": "vacancy_V052.json"
+}

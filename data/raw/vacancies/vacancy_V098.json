@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V098",
+  "title": "Tax Consultant",
+  "company": "DataBridge",
+  "location": "Lviv",
+  "employment_type": "hybrid",
+  "years_experience_required": 2.3,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "tax compliance",
+    "tax planning",
+    "excel",
+    "accounting",
+    "tax legislation",
+    "transfer pricing",
+    "reporting"
+  ],
+  "optional_skills": [
+    "financial modeling",
+    "ifrs",
+    "erp"
+  ],
+  "responsibilities": "prepare tax calculations and compliance documents; analyze legislation changes and client impact; advise stakeholders on tax risks and optimization opportunities",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in tax compliance, tax planning, excel, accounting, tax legislation. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "DataBridge is hiring a middle tax consultant to support supporting businesses with tax compliance, planning, and advisory work.",
+  "raw_text": "Vacancy V098: Tax Consultant at DataBridge. Location: Lviv. Employment: hybrid. Required experience: 2.3 years. Required skills: tax compliance, tax planning, excel, accounting, tax legislation, transfer pricing, reporting. Optional skills: financial modeling, ifrs, erp. Responsibilities: prepare tax calculations and compliance documents; analyze legislation changes and client impact; advise stakeholders on tax risks and optimization opportunities.",
+  "source_file": "vacancy_V098.json"
+}

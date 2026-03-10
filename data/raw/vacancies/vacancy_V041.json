@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V041",
+  "title": "Automation QA Engineer",
+  "company": "VectorApps",
+  "location": "Kyiv",
+  "employment_type": "hybrid",
+  "years_experience_required": 0.7,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "cypress",
+    "api testing",
+    "playwright"
+  ],
+  "optional_skills": [
+    "mobile testing",
+    "ci/cd",
+    "bug reporting"
+  ],
+  "responsibilities": "create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in testing, jira, sql, postman, cypress. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "VectorApps is hiring a junior automation qa engineer to support validating product quality through manual and automated testing.",
+  "raw_text": "Vacancy V041: Automation QA Engineer at VectorApps. Location: Kyiv. Employment: hybrid. Required experience: 0.7 years. Required skills: testing, jira, sql, postman, cypress, api testing, playwright. Optional skills: mobile testing, ci/cd, bug reporting. Responsibilities: create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams.",
+  "source_file": "vacancy_V041.json"
+}

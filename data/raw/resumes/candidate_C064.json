@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C064",
+  "full_name": "Maksym Hrytsenko",
+  "location": "Kyiv",
+  "preferred_locations": [
+    "Kyiv",
+    "Remote"
+  ],
+  "years_experience": 3.2,
+  "seniority_level": "Middle",
+  "skills": [
+    "digital marketing",
+    "content strategy",
+    "seo",
+    "google analytics",
+    "campaign management",
+    "meta ads",
+    "google ads",
+    "crm",
+    "email marketing"
+  ],
+  "primary_stack": "Marketing",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in marketing, communications, or business; continued learning in marketing tooling and engineering practices.",
+  "work_history": "Delivered projects focused on planning and executing acquisition, retention, and content campaigns; worked with digital marketing, content strategy, seo, google analytics, campaign management; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Digital Marketing Manager",
+    "Marketing Specialist"
+  ],
+  "summary": "Middle Marketing Specialist with 3.2 years of experience in planning and executing acquisition, retention, and content campaigns.",
+  "raw_text": "Maksym Hrytsenko is a middle marketing specialist based in Kyiv. Experience: 3.2 years. Skills: digital marketing, content strategy, seo, google analytics, campaign management, meta ads, google ads, crm, email marketing. Target roles: Digital Marketing Manager, Marketing Specialist. Focus: planning and executing acquisition, retention, and content campaigns.",
+  "source_file": "candidate_C064.json"
+}

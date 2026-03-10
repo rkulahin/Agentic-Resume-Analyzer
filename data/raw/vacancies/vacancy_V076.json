@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "V076",
+  "title": "ASP.NET Core Developer",
+  "company": "CloudForge",
+  "location": "Kyiv",
+  "employment_type": "full-time",
+  "years_experience_required": 2.9,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "rest api",
+    "redis",
+    "blazor",
+    "azure"
+  ],
+  "optional_skills": [
+    "message queues",
+    "clean architecture",
+    "ci/cd"
+  ],
+  "responsibilities": "develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in c#, .net, asp.net core, sql server, entity framework. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CloudForge is hiring a middle asp.net core developer to support building enterprise backend systems and internal business applications.",
+  "raw_text": "Vacancy V076: ASP.NET Core Developer at CloudForge. Location: Kyiv. Employment: full-time. Required experience: 2.9 years. Required skills: c#, .net, asp.net core, sql server, entity framework, rest api, redis, blazor, azure. Optional skills: message queues, clean architecture, ci/cd. Responsibilities: develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow.",
+  "source_file": "vacancy_V076.json"
+}

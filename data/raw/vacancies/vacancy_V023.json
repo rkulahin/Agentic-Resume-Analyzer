@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V023",
+  "title": "Python Backend Engineer",
+  "company": "MetricWave",
+  "location": "Dnipro",
+  "employment_type": "hybrid",
+  "years_experience_required": 2.3,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "celery",
+    "sqlalchemy"
+  ],
+  "optional_skills": [
+    "linux",
+    "rabbitmq",
+    "terraform"
+  ],
+  "responsibilities": "design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in python, fastapi, django, postgresql, docker. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "MetricWave is hiring a middle python backend engineer to support developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Vacancy V023: Python Backend Engineer at MetricWave. Location: Dnipro. Employment: hybrid. Required experience: 2.3 years. Required skills: python, fastapi, django, postgresql, docker, celery, sqlalchemy. Optional skills: linux, rabbitmq, terraform. Responsibilities: design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring.",
+  "source_file": "vacancy_V023.json"
+}

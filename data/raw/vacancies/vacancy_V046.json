@@ -1,0 +1,27 @@
+{
+  "vacancy_id": "V046",
+  "title": "QA Engineer",
+  "company": "CoreStack",
+  "location": "Odesa",
+  "employment_type": "full-time",
+  "years_experience_required": 1.7,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "test automation",
+    "selenium"
+  ],
+  "optional_skills": [
+    "mobile testing",
+    "ci/cd"
+  ],
+  "responsibilities": "create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in testing, jira, sql, postman, test automation. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CoreStack is hiring a junior qa engineer to support validating product quality through manual and automated testing.",
+  "raw_text": "Vacancy V046: QA Engineer at CoreStack. Location: Odesa. Employment: full-time. Required experience: 1.7 years. Required skills: testing, jira, sql, postman, test automation, selenium. Optional skills: mobile testing, ci/cd. Responsibilities: create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams.",
+  "source_file": "vacancy_V046.json"
+}

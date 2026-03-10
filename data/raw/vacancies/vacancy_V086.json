@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V086",
+  "title": "Audit Specialist",
+  "company": "DataBridge",
+  "location": "Dnipro",
+  "employment_type": "hybrid",
+  "years_experience_required": 2.3,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "audit",
+    "excel",
+    "financial reporting",
+    "internal controls",
+    "risk assessment",
+    "sap",
+    "documentation"
+  ],
+  "optional_skills": [
+    "policy review",
+    "power bi",
+    "sox"
+  ],
+  "responsibilities": "perform audit procedures and control testing; document findings and prepare audit reports; recommend improvements for compliance and risk mitigation",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in audit, excel, financial reporting, internal controls, risk assessment. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "DataBridge is hiring a middle audit specialist to support reviewing financial processes, controls, and compliance activities.",
+  "raw_text": "Vacancy V086: Audit Specialist at DataBridge. Location: Dnipro. Employment: hybrid. Required experience: 2.3 years. Required skills: audit, excel, financial reporting, internal controls, risk assessment, sap, documentation. Optional skills: policy review, power bi, sox. Responsibilities: perform audit procedures and control testing; document findings and prepare audit reports; recommend improvements for compliance and risk mitigation.",
+  "source_file": "vacancy_V086.json"
+}

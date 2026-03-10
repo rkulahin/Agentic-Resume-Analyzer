@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C051",
+  "full_name": "Nataliia Oliinyk",
+  "location": "Lviv",
+  "preferred_locations": [
+    "Lviv",
+    "Remote"
+  ],
+  "years_experience": 3.2,
+  "seniority_level": "Middle",
+  "skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "python",
+    "java",
+    "test automation",
+    "selenium"
+  ],
+  "primary_stack": "QA Automation",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in computer science or quality engineering; continued learning in qa automation tooling and engineering practices.",
+  "work_history": "Delivered projects focused on validating product quality through manual and automated testing; worked with testing, jira, sql, postman, python; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Test Engineer",
+    "QA Engineer"
+  ],
+  "summary": "Middle QA Engineer with 3.2 years of experience in validating product quality through manual and automated testing.",
+  "raw_text": "Nataliia Oliinyk is a middle qa engineer based in Lviv. Experience: 3.2 years. Skills: testing, jira, sql, postman, python, java, test automation, selenium. Target roles: Test Engineer, QA Engineer. Focus: validating product quality through manual and automated testing.",
+  "source_file": "candidate_C051.json"
+}

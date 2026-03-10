@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V083",
+  "title": "Audit Specialist",
+  "company": "MetricWave",
+  "location": "Kyiv",
+  "employment_type": "hybrid",
+  "years_experience_required": 1.7,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "audit",
+    "excel",
+    "financial reporting",
+    "internal controls",
+    "risk assessment",
+    "data analysis",
+    "ifrs"
+  ],
+  "optional_skills": [
+    "sox",
+    "erp"
+  ],
+  "responsibilities": "perform audit procedures and control testing; document findings and prepare audit reports; recommend improvements for compliance and risk mitigation",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in audit, excel, financial reporting, internal controls, risk assessment. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "MetricWave is hiring a junior audit specialist to support reviewing financial processes, controls, and compliance activities.",
+  "raw_text": "Vacancy V083: Audit Specialist at MetricWave. Location: Kyiv. Employment: hybrid. Required experience: 1.7 years. Required skills: audit, excel, financial reporting, internal controls, risk assessment, data analysis, ifrs. Optional skills: sox, erp. Responsibilities: perform audit procedures and control testing; document findings and prepare audit reports; recommend improvements for compliance and risk mitigation.",
+  "source_file": "vacancy_V083.json"
+}

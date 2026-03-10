@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C098",
+  "full_name": "Artem Marchenko",
+  "location": "Warsaw",
+  "preferred_locations": [
+    "Warsaw",
+    "Remote"
+  ],
+  "years_experience": 2.4,
+  "seniority_level": "Middle",
+  "skills": [
+    "tax compliance",
+    "tax planning",
+    "excel",
+    "accounting",
+    "tax legislation",
+    "transfer pricing",
+    "reporting"
+  ],
+  "primary_stack": "Tax Consulting",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in tax, finance, accounting, or law; continued learning in tax consulting tooling and engineering practices.",
+  "work_history": "Delivered projects focused on supporting businesses with tax compliance, planning, and advisory work; worked with tax compliance, tax planning, excel, accounting, tax legislation; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Tax Consultant",
+    "Tax Advisor"
+  ],
+  "summary": "Middle Tax Consultant with 2.4 years of experience in supporting businesses with tax compliance, planning, and advisory work.",
+  "raw_text": "Artem Marchenko is a middle tax consultant based in Warsaw. Experience: 2.4 years. Skills: tax compliance, tax planning, excel, accounting, tax legislation, transfer pricing, reporting. Target roles: Tax Consultant, Tax Advisor. Focus: supporting businesses with tax compliance, planning, and advisory work.",
+  "source_file": "candidate_C098.json"
+}

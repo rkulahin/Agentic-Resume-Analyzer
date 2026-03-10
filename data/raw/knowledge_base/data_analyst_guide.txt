@@ -1,0 +1,75 @@
+Data Analyst Guide: Matching Criteria, Signals, and Advice
+
+Purpose
+This guide supports retrieval for Data Analyst, BI Analyst, and Product Analyst roles.
+
+Core Skills Recruiters Expect
+Data extraction and transformation:
+SQL
+joins
+aggregations
+CTEs
+window functions
+data cleaning
+
+Analysis tooling:
+Python or R
+pandas
+Jupyter notebooks
+spreadsheets
+
+Visualization and communication:
+Tableau
+Power BI
+Looker or similar BI tools
+dashboard design
+storytelling with data
+
+Analytical foundations:
+statistics
+hypothesis testing
+A/B testing
+metric design
+trend analysis
+
+Business alignment:
+KPI understanding
+stakeholder communication
+requirement clarification
+interpretation of results
+
+Signals of a Strong Candidate
+Can translate a business question into a measurable analysis plan.
+Can write robust SQL and explain metric definitions.
+Built dashboards used by real stakeholders.
+Understands limitations, assumptions, and data quality issues.
+Shows business impact, not just tool usage.
+
+Important Resume Evidence
+Dashboards built and who used them.
+Automation or reporting improvements.
+Experimentation or statistical analysis.
+Data volume or process complexity.
+Business decisions influenced by the analysis.
+
+Common Gaps
+Tool list without analytical outcomes.
+Dashboard experience without SQL depth.
+Python listed but not used for analysis.
+No evidence of stakeholder communication.
+No understanding of metrics, experimentation, or limitations.
+
+Advice by Seniority
+Junior:
+Show SQL projects, one dashboard, one end-to-end analysis, and clear metric reasoning.
+
+Middle:
+Show ownership of recurring reporting, decision support, experimentation, and stakeholder communication.
+
+Senior:
+Show analytical leadership, KPI design, prioritization, influence, and process standardization.
+
+What to Emphasize in Matching Explanations
+Matched_skills should prioritize SQL, dashboarding, Python, statistics, and business impact.
+Missing_skills should prioritize SQL depth and business reasoning before niche tools.
+Strong explanations should mention both analysis quality and communication value.

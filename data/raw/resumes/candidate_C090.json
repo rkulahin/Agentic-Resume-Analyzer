@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C090",
+  "full_name": "Roman Savchenko",
+  "location": "Odesa",
+  "preferred_locations": [
+    "Odesa",
+    "Remote"
+  ],
+  "years_experience": 1.0,
+  "seniority_level": "Junior",
+  "skills": [
+    "tax compliance",
+    "tax planning",
+    "excel",
+    "accounting",
+    "tax legislation",
+    "corporate tax",
+    "transfer pricing",
+    "reporting"
+  ],
+  "primary_stack": "Tax Consulting",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in tax, finance, accounting, or law; continued learning in tax consulting tooling and engineering practices.",
+  "work_history": "Delivered projects focused on supporting businesses with tax compliance, planning, and advisory work; worked with tax compliance, tax planning, excel, accounting, tax legislation; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Tax Advisor",
+    "Tax Associate"
+  ],
+  "summary": "Junior Tax Consultant with 1.0 years of experience in supporting businesses with tax compliance, planning, and advisory work.",
+  "raw_text": "Roman Savchenko is a junior tax consultant based in Odesa. Experience: 1.0 years. Skills: tax compliance, tax planning, excel, accounting, tax legislation, corporate tax, transfer pricing, reporting. Target roles: Tax Advisor, Tax Associate. Focus: supporting businesses with tax compliance, planning, and advisory work.",
+  "source_file": "candidate_C090.json"
+}

@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C011",
+  "full_name": "Nataliia Oliinyk",
+  "location": "Dnipro",
+  "preferred_locations": [
+    "Dnipro",
+    "Remote"
+  ],
+  "years_experience": 2.8,
+  "seniority_level": "Middle",
+  "skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "jest",
+    "cypress",
+    "tailwind"
+  ],
+  "primary_stack": "React",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in software engineering; continued learning in react tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building responsive product interfaces and reusable UI components; worked with react, javascript, typescript, html, css; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "React Developer",
+    "UI Engineer"
+  ],
+  "summary": "Middle React Developer with 2.8 years of experience in building responsive product interfaces and reusable UI components.",
+  "raw_text": "Nataliia Oliinyk is a middle react developer based in Dnipro. Experience: 2.8 years. Skills: react, javascript, typescript, html, css, jest, cypress, tailwind. Target roles: React Developer, UI Engineer. Focus: building responsive product interfaces and reusable UI components.",
+  "source_file": "candidate_C011.json"
+}

@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C056",
+  "full_name": "Denys Kravets",
+  "location": "Warsaw",
+  "preferred_locations": [
+    "Warsaw",
+    "Remote"
+  ],
+  "years_experience": 1.4,
+  "seniority_level": "Junior",
+  "skills": [
+    "digital marketing",
+    "content strategy",
+    "seo",
+    "google analytics",
+    "campaign management",
+    "hubspot",
+    "meta ads"
+  ],
+  "primary_stack": "Marketing",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in marketing, communications, or business; continued learning in marketing tooling and engineering practices.",
+  "work_history": "Delivered projects focused on planning and executing acquisition, retention, and content campaigns; worked with digital marketing, content strategy, seo, google analytics, campaign management; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Marketing Specialist",
+    "Growth Marketer"
+  ],
+  "summary": "Junior Marketing Specialist with 1.4 years of experience in planning and executing acquisition, retention, and content campaigns.",
+  "raw_text": "Denys Kravets is a junior marketing specialist based in Warsaw. Experience: 1.4 years. Skills: digital marketing, content strategy, seo, google analytics, campaign management, hubspot, meta ads. Target roles: Marketing Specialist, Growth Marketer. Focus: planning and executing acquisition, retention, and content campaigns.",
+  "source_file": "candidate_C056.json"
+}

@@ -1,0 +1,49 @@
+Career Growth Framework Across Technical and Business Roles
+
+Purpose
+This document helps an assistant produce growth-oriented advice after matching or gap analysis. It is useful when the user asks what to do next to reach a higher seniority level or change domains.
+
+Growth Signals by Stage
+Junior:
+Learns quickly, delivers scoped tasks, responds to feedback, builds reliable habits, and develops one clear domain strength.
+
+Middle:
+Owns features or workstreams end-to-end, makes sound execution decisions, communicates trade-offs, and improves team reliability.
+
+Senior:
+Owns systems or functions, influences priorities, mentors others, makes strategic trade-offs, and improves processes beyond individual delivery.
+
+How Growth Looks in Different Domains
+Engineering:
+Junior to mid growth means stronger debugging, testing, architecture awareness, and delivery ownership.
+Mid to senior growth means system thinking, reliability, mentoring, and business-context decision making.
+
+Data:
+Junior to mid growth means stronger SQL, clearer metrics, and better stakeholder communication.
+Mid to senior growth means KPI ownership, experimentation strategy, and cross-functional influence.
+
+QA:
+Junior to mid growth means stronger strategy, automation depth, and risk assessment.
+Mid to senior growth means quality leadership, release confidence, and process design.
+
+Marketing:
+Junior to mid growth means owning channels and reporting.
+Mid to senior growth means growth strategy, budget trade-offs, and business impact leadership.
+
+Audit and Tax:
+Junior to mid growth means more independent analysis, documentation quality, and issue identification.
+Mid to senior growth means advisory confidence, risk prioritization, and stakeholder influence.
+
+Growth Recommendations the Assistant Can Give
+Improve depth in one primary stack or domain.
+Add one adjacent skill that expands role eligibility.
+Collect stronger evidence of impact.
+Take ownership of a process, not only tasks.
+Document achievements in measurable terms.
+Practice communication with non-specialist stakeholders.
+
+What Not to Recommend
+Do not recommend collecting random certifications without role relevance.
+Do not recommend broadening too early without a clear target.
+Do not frame growth only as "learn more tools."
+Do not ignore business communication and ownership when discussing seniority.

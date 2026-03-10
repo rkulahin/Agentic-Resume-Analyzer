@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V042",
+  "title": "Software Test Engineer",
+  "company": "InsightFlow",
+  "location": "Lviv",
+  "employment_type": "contract",
+  "years_experience_required": 0.9,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "api testing",
+    "playwright",
+    "python",
+    "java"
+  ],
+  "optional_skills": [
+    "ci/cd",
+    "bug reporting"
+  ],
+  "responsibilities": "create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in testing, jira, sql, postman, api testing. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "InsightFlow is hiring a junior software test engineer to support validating product quality through manual and automated testing.",
+  "raw_text": "Vacancy V042: Software Test Engineer at InsightFlow. Location: Lviv. Employment: contract. Required experience: 0.9 years. Required skills: testing, jira, sql, postman, api testing, playwright, python, java. Optional skills: ci/cd, bug reporting. Responsibilities: create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams.",
+  "source_file": "vacancy_V042.json"
+}

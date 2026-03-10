@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C006",
+  "full_name": "Dmytro Rudenko",
+  "location": "Odesa",
+  "preferred_locations": [
+    "Odesa",
+    "Remote"
+  ],
+  "years_experience": 1.8,
+  "seniority_level": "Junior",
+  "skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "tailwind",
+    "vite",
+    "redux",
+    "next.js"
+  ],
+  "primary_stack": "React",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in software engineering; continued learning in react tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building responsive product interfaces and reusable UI components; worked with react, javascript, typescript, html, css; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "UI Engineer",
+    "Frontend Developer"
+  ],
+  "summary": "Junior React Developer with 1.8 years of experience in building responsive product interfaces and reusable UI components.",
+  "raw_text": "Dmytro Rudenko is a junior react developer based in Odesa. Experience: 1.8 years. Skills: react, javascript, typescript, html, css, tailwind, vite, redux, next.js. Target roles: UI Engineer, Frontend Developer. Focus: building responsive product interfaces and reusable UI components.",
+  "source_file": "candidate_C006.json"
+}

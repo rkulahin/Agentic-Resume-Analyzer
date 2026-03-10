@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C023",
+  "full_name": "Iryna Polishchuk",
+  "location": "Lviv",
+  "preferred_locations": [
+    "Lviv",
+    "Remote"
+  ],
+  "years_experience": 2.4,
+  "seniority_level": "Middle",
+  "skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "celery",
+    "sqlalchemy"
+  ],
+  "primary_stack": "Python",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in computer science; continued learning in python tooling and engineering practices.",
+  "work_history": "Delivered projects focused on developing backend services, APIs, and data-driven platform features; worked with python, fastapi, django, postgresql, docker; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Python Developer",
+    "Backend Engineer"
+  ],
+  "summary": "Middle Python Backend Developer with 2.4 years of experience in developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Iryna Polishchuk is a middle python backend developer based in Lviv. Experience: 2.4 years. Skills: python, fastapi, django, postgresql, docker, celery, sqlalchemy. Target roles: Python Developer, Backend Engineer. Focus: developing backend services, APIs, and data-driven platform features.",
+  "source_file": "candidate_C023.json"
+}

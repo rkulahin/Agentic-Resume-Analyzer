@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C086",
+  "full_name": "Dmytro Rudenko",
+  "location": "Lviv",
+  "preferred_locations": [
+    "Lviv",
+    "Remote"
+  ],
+  "years_experience": 2.4,
+  "seniority_level": "Middle",
+  "skills": [
+    "audit",
+    "excel",
+    "financial reporting",
+    "internal controls",
+    "risk assessment",
+    "sap",
+    "documentation"
+  ],
+  "primary_stack": "Audit",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in accounting, finance, or auditing; continued learning in audit tooling and engineering practices.",
+  "work_history": "Delivered projects focused on reviewing financial processes, controls, and compliance activities; worked with audit, excel, financial reporting, internal controls, risk assessment; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Audit Specialist",
+    "Internal Auditor"
+  ],
+  "summary": "Middle Audit Specialist with 2.4 years of experience in reviewing financial processes, controls, and compliance activities.",
+  "raw_text": "Dmytro Rudenko is a middle audit specialist based in Lviv. Experience: 2.4 years. Skills: audit, excel, financial reporting, internal controls, risk assessment, sap, documentation. Target roles: Audit Specialist, Internal Auditor. Focus: reviewing financial processes, controls, and compliance activities.",
+  "source_file": "candidate_C086.json"
+}

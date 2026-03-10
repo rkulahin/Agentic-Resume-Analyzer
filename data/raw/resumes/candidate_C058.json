@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C058",
+  "full_name": "Artem Marchenko",
+  "location": "Lviv",
+  "preferred_locations": [
+    "Lviv",
+    "Remote"
+  ],
+  "years_experience": 1.8,
+  "seniority_level": "Junior",
+  "skills": [
+    "digital marketing",
+    "content strategy",
+    "seo",
+    "google analytics",
+    "campaign management",
+    "google ads",
+    "crm",
+    "email marketing",
+    "smm"
+  ],
+  "primary_stack": "Marketing",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in marketing, communications, or business; continued learning in marketing tooling and engineering practices.",
+  "work_history": "Delivered projects focused on planning and executing acquisition, retention, and content campaigns; worked with digital marketing, content strategy, seo, google analytics, campaign management; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Digital Marketing Manager",
+    "Marketing Specialist"
+  ],
+  "summary": "Junior Marketing Specialist with 1.8 years of experience in planning and executing acquisition, retention, and content campaigns.",
+  "raw_text": "Artem Marchenko is a junior marketing specialist based in Lviv. Experience: 1.8 years. Skills: digital marketing, content strategy, seo, google analytics, campaign management, google ads, crm, email marketing, smm. Target roles: Digital Marketing Manager, Marketing Specialist. Focus: planning and executing acquisition, retention, and content campaigns.",
+  "source_file": "candidate_C058.json"
+}

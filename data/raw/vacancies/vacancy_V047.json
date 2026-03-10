@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V047",
+  "title": "Automation QA Engineer",
+  "company": "MetricWave",
+  "location": "Warsaw",
+  "employment_type": "hybrid",
+  "years_experience_required": 1.9,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "selenium",
+    "cypress",
+    "api testing"
+  ],
+  "optional_skills": [
+    "ci/cd",
+    "bug reporting",
+    "test planning"
+  ],
+  "responsibilities": "create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in testing, jira, sql, postman, selenium. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "MetricWave is hiring a junior automation qa engineer to support validating product quality through manual and automated testing.",
+  "raw_text": "Vacancy V047: Automation QA Engineer at MetricWave. Location: Warsaw. Employment: hybrid. Required experience: 1.9 years. Required skills: testing, jira, sql, postman, selenium, cypress, api testing. Optional skills: ci/cd, bug reporting, test planning. Responsibilities: create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams.",
+  "source_file": "vacancy_V047.json"
+}

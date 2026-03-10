@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V037",
+  "title": "BI Analyst",
+  "company": "NovaSoft",
+  "location": "Dnipro",
+  "employment_type": "full-time",
+  "years_experience_required": 2.6,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "airflow",
+    "looker",
+    "bigquery"
+  ],
+  "optional_skills": [
+    "dbt",
+    "forecasting"
+  ],
+  "responsibilities": "prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in sql, python, excel, tableau, airflow. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "NovaSoft is hiring a middle bi analyst to support analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Vacancy V037: BI Analyst at NovaSoft. Location: Dnipro. Employment: full-time. Required experience: 2.6 years. Required skills: sql, python, excel, tableau, airflow, looker, bigquery. Optional skills: dbt, forecasting. Responsibilities: prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items.",
+  "source_file": "vacancy_V037.json"
+}

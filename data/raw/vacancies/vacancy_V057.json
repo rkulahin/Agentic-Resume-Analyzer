@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V057",
+  "title": "Digital Marketer",
+  "company": "PixelCraft",
+  "location": "Remote",
+  "employment_type": "contract",
+  "years_experience_required": 1.3,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "digital marketing",
+    "content strategy",
+    "seo",
+    "google analytics",
+    "campaign management",
+    "meta ads",
+    "google ads",
+    "crm"
+  ],
+  "optional_skills": [
+    "a/b testing",
+    "brand strategy"
+  ],
+  "responsibilities": "launch and optimize multichannel campaigns; analyze funnel metrics and campaign performance; coordinate content, design, and sales stakeholders",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in digital marketing, content strategy, seo, google analytics, campaign management. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "PixelCraft is hiring a junior digital marketer to support planning and executing acquisition, retention, and content campaigns.",
+  "raw_text": "Vacancy V057: Digital Marketer at PixelCraft. Location: Remote. Employment: contract. Required experience: 1.3 years. Required skills: digital marketing, content strategy, seo, google analytics, campaign management, meta ads, google ads, crm. Optional skills: a/b testing, brand strategy. Responsibilities: launch and optimize multichannel campaigns; analyze funnel metrics and campaign performance; coordinate content, design, and sales stakeholders.",
+  "source_file": "vacancy_V057.json"
+}

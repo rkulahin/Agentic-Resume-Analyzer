@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C035",
+  "full_name": "Alina Melnyk",
+  "location": "Warsaw",
+  "preferred_locations": [
+    "Warsaw",
+    "Remote"
+  ],
+  "years_experience": 2.0,
+  "seniority_level": "Middle",
+  "skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "pandas",
+    "statistics",
+    "airflow",
+    "looker"
+  ],
+  "primary_stack": "Analytics",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in analytics, economics, or applied mathematics; continued learning in analytics tooling and engineering practices.",
+  "work_history": "Delivered projects focused on analyzing business metrics, building dashboards, and explaining trends; worked with sql, python, excel, tableau, pandas; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Product Analyst",
+    "Data Analyst"
+  ],
+  "summary": "Middle Data Analyst with 2.0 years of experience in analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Alina Melnyk is a middle data analyst based in Warsaw. Experience: 2.0 years. Skills: sql, python, excel, tableau, pandas, statistics, airflow, looker. Target roles: Product Analyst, Data Analyst. Focus: analyzing business metrics, building dashboards, and explaining trends.",
+  "source_file": "candidate_C035.json"
+}

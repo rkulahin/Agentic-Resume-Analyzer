@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C073",
+  "full_name": "Tetiana Lysenko",
+  "location": "Remote",
+  "preferred_locations": [
+    "Remote",
+    "Dnipro"
+  ],
+  "years_experience": 2.0,
+  "seniority_level": "Middle",
+  "skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "docker",
+    "microservices",
+    "xunit",
+    "rest api"
+  ],
+  "primary_stack": ".NET",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in software engineering or computer science; continued learning in .net tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building enterprise backend systems and internal business applications; worked with c#, .net, asp.net core, sql server, entity framework; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Backend .NET Developer",
+    "C# Developer"
+  ],
+  "summary": "Middle C# .NET Developer with 2.0 years of experience in building enterprise backend systems and internal business applications.",
+  "raw_text": "Tetiana Lysenko is a middle c# .net developer based in Remote. Experience: 2.0 years. Skills: c#, .net, asp.net core, sql server, entity framework, docker, microservices, xunit, rest api. Target roles: Backend .NET Developer, C# Developer. Focus: building enterprise backend systems and internal business applications.",
+  "source_file": "candidate_C073.json"
+}

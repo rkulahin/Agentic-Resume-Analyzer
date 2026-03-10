@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "V045",
+  "title": "Software Test Engineer",
+  "company": "PixelCraft",
+  "location": "Kharkiv",
+  "employment_type": "contract",
+  "years_experience_required": 1.5,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "java",
+    "test automation",
+    "selenium",
+    "cypress"
+  ],
+  "optional_skills": [
+    "performance testing",
+    "mobile testing",
+    "ci/cd"
+  ],
+  "responsibilities": "create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in testing, jira, sql, postman, java. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "PixelCraft is hiring a junior software test engineer to support validating product quality through manual and automated testing.",
+  "raw_text": "Vacancy V045: Software Test Engineer at PixelCraft. Location: Kharkiv. Employment: contract. Required experience: 1.5 years. Required skills: testing, jira, sql, postman, java, test automation, selenium, cypress. Optional skills: performance testing, mobile testing, ci/cd. Responsibilities: create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams.",
+  "source_file": "vacancy_V045.json"
+}

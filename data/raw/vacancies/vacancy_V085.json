@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "V085",
+  "title": "Audit Associate",
+  "company": "NovaSoft",
+  "location": "Remote",
+  "employment_type": "full-time",
+  "years_experience_required": 2.0,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "audit",
+    "excel",
+    "financial reporting",
+    "internal controls",
+    "risk assessment",
+    "gaap",
+    "sap",
+    "documentation",
+    "process review"
+  ],
+  "optional_skills": [
+    "stakeholder management",
+    "policy review"
+  ],
+  "responsibilities": "perform audit procedures and control testing; document findings and prepare audit reports; recommend improvements for compliance and risk mitigation",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in audit, excel, financial reporting, internal controls, risk assessment. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "NovaSoft is hiring a middle audit associate to support reviewing financial processes, controls, and compliance activities.",
+  "raw_text": "Vacancy V085: Audit Associate at NovaSoft. Location: Remote. Employment: full-time. Required experience: 2.0 years. Required skills: audit, excel, financial reporting, internal controls, risk assessment, gaap, sap, documentation, process review. Optional skills: stakeholder management, policy review. Responsibilities: perform audit procedures and control testing; document findings and prepare audit reports; recommend improvements for compliance and risk mitigation.",
+  "source_file": "vacancy_V085.json"
+}

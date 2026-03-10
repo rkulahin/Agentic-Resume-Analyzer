@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V014",
+  "title": "Python Backend Engineer",
+  "company": "DataBridge",
+  "location": "Lviv",
+  "employment_type": "hybrid",
+  "years_experience_required": 0.5,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "aws",
+    "redis"
+  ],
+  "optional_skills": [
+    "rabbitmq",
+    "terraform"
+  ],
+  "responsibilities": "design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in python, fastapi, django, postgresql, docker. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "DataBridge is hiring a junior python backend engineer to support developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Vacancy V014: Python Backend Engineer at DataBridge. Location: Lviv. Employment: hybrid. Required experience: 0.5 years. Required skills: python, fastapi, django, postgresql, docker, aws, redis. Optional skills: rabbitmq, terraform. Responsibilities: design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring.",
+  "source_file": "vacancy_V014.json"
+}

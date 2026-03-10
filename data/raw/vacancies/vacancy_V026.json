@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V026",
+  "title": "Python Backend Engineer",
+  "company": "DataBridge",
+  "location": "Warsaw",
+  "employment_type": "hybrid",
+  "years_experience_required": 3.2,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "flask",
+    "kubernetes"
+  ],
+  "optional_skills": [
+    "prometheus",
+    "microservices"
+  ],
+  "responsibilities": "design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in python, fastapi, django, postgresql, docker. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "DataBridge is hiring a middle python backend engineer to support developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Vacancy V026: Python Backend Engineer at DataBridge. Location: Warsaw. Employment: hybrid. Required experience: 3.2 years. Required skills: python, fastapi, django, postgresql, docker, flask, kubernetes. Optional skills: prometheus, microservices. Responsibilities: design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring.",
+  "source_file": "vacancy_V026.json"
+}

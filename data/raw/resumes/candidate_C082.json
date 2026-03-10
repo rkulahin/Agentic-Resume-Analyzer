@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C082",
+  "full_name": "Andrii Tkachenko",
+  "location": "Kharkiv",
+  "preferred_locations": [
+    "Kharkiv",
+    "Remote"
+  ],
+  "years_experience": 1.8,
+  "seniority_level": "Junior",
+  "skills": [
+    "audit",
+    "excel",
+    "financial reporting",
+    "internal controls",
+    "risk assessment",
+    "compliance",
+    "data analysis",
+    "ifrs",
+    "gaap"
+  ],
+  "primary_stack": "Audit",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in accounting, finance, or auditing; continued learning in audit tooling and engineering practices.",
+  "work_history": "Delivered projects focused on reviewing financial processes, controls, and compliance activities; worked with audit, excel, financial reporting, internal controls, risk assessment; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Audit Associate",
+    "Audit Specialist"
+  ],
+  "summary": "Junior Audit Specialist with 1.8 years of experience in reviewing financial processes, controls, and compliance activities.",
+  "raw_text": "Andrii Tkachenko is a junior audit specialist based in Kharkiv. Experience: 1.8 years. Skills: audit, excel, financial reporting, internal controls, risk assessment, compliance, data analysis, ifrs, gaap. Target roles: Audit Associate, Audit Specialist. Focus: reviewing financial processes, controls, and compliance activities.",
+  "source_file": "candidate_C082.json"
+}

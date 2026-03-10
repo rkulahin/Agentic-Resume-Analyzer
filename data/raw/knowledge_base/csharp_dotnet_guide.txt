@@ -1,0 +1,70 @@
+C# and .NET Guide: Matching Criteria, Signals, and Advice
+
+Purpose
+This guide supports retrieval for C#, .NET backend, enterprise platform, and internal systems engineering roles.
+
+Core Skills Recruiters Expect
+Language and platform:
+C#
+.NET
+ASP.NET Core
+object-oriented design
+dependency injection
+clean architecture concepts
+
+Data and persistence:
+SQL Server
+Entity Framework
+migrations
+performance tuning
+transaction handling
+
+Service engineering:
+REST APIs
+background jobs
+integration with internal systems
+authentication and authorization
+error handling
+
+Delivery and operations:
+Docker
+Azure or other cloud platforms
+CI/CD
+testing with xUnit or similar
+logging and monitoring
+
+Signals of a Strong Candidate
+Can explain enterprise backend design and maintainability.
+Has production experience with ASP.NET Core and data access layers.
+Can discuss service boundaries, API contracts, and integration reliability.
+Shows awareness of testing, deployment, and observability.
+Provides evidence of business systems, not only tutorial projects.
+
+Important Resume Evidence
+Enterprise systems or internal platforms supported.
+API and database responsibilities.
+Migration or modernization work.
+Performance or reliability improvements.
+Cloud or deployment responsibilities.
+
+Common Gaps
+C# listed without recent .NET backend evidence.
+No ASP.NET Core depth.
+Entity Framework mentioned without SQL understanding.
+No deployment or testing evidence.
+Experience limited to isolated coding tasks without system ownership.
+
+Advice by Seniority
+Junior:
+Show one complete .NET API project with data persistence, validation, tests, and deployment basics.
+
+Middle:
+Show ownership of modules, integrations, performance tuning, and reliability practices.
+
+Senior:
+Show architecture decisions, modernization strategy, maintainability standards, and technical leadership.
+
+What to Emphasize in Matching Explanations
+Matched_skills should prioritize C#, .NET, ASP.NET Core, SQL Server, Entity Framework, and deployment practices.
+Missing_skills should prioritize backend production depth before secondary platform extras.
+Strong explanations should mention maintainability, business-system fit, and operational maturity.

@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C093",
+  "full_name": "Tetiana Lysenko",
+  "location": "Lviv",
+  "preferred_locations": [
+    "Lviv",
+    "Remote"
+  ],
+  "years_experience": 1.6,
+  "seniority_level": "Junior",
+  "skills": [
+    "tax compliance",
+    "tax planning",
+    "excel",
+    "accounting",
+    "tax legislation",
+    "risk analysis",
+    "advisory",
+    "1c"
+  ],
+  "primary_stack": "Tax Consulting",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in tax, finance, accounting, or law; continued learning in tax consulting tooling and engineering practices.",
+  "work_history": "Delivered projects focused on supporting businesses with tax compliance, planning, and advisory work; worked with tax compliance, tax planning, excel, accounting, tax legislation; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Tax Advisor",
+    "Tax Associate"
+  ],
+  "summary": "Junior Tax Consultant with 1.6 years of experience in supporting businesses with tax compliance, planning, and advisory work.",
+  "raw_text": "Tetiana Lysenko is a junior tax consultant based in Lviv. Experience: 1.6 years. Skills: tax compliance, tax planning, excel, accounting, tax legislation, risk analysis, advisory, 1c. Target roles: Tax Advisor, Tax Associate. Focus: supporting businesses with tax compliance, planning, and advisory work.",
+  "source_file": "candidate_C093.json"
+}

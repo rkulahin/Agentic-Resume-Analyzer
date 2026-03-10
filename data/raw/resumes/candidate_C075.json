@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C075",
+  "full_name": "Alina Melnyk",
+  "location": "Kharkiv",
+  "preferred_locations": [
+    "Kharkiv",
+    "Remote"
+  ],
+  "years_experience": 2.8,
+  "seniority_level": "Middle",
+  "skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "xunit",
+    "rest api",
+    "redis"
+  ],
+  "primary_stack": ".NET",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in software engineering or computer science; continued learning in .net tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building enterprise backend systems and internal business applications; worked with c#, .net, asp.net core, sql server, entity framework; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    ".NET Engineer",
+    "Backend .NET Developer"
+  ],
+  "summary": "Middle C# .NET Developer with 2.8 years of experience in building enterprise backend systems and internal business applications.",
+  "raw_text": "Alina Melnyk is a middle c# .net developer based in Kharkiv. Experience: 2.8 years. Skills: c#, .net, asp.net core, sql server, entity framework, xunit, rest api, redis. Target roles: .NET Engineer, Backend .NET Developer. Focus: building enterprise backend systems and internal business applications.",
+  "source_file": "candidate_C075.json"
+}

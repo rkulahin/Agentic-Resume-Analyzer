@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C007",
+  "full_name": "Kateryna Korniienko",
+  "location": "Warsaw",
+  "preferred_locations": [
+    "Warsaw",
+    "Remote"
+  ],
+  "years_experience": 2.0,
+  "seniority_level": "Junior",
+  "skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "vite",
+    "redux"
+  ],
+  "primary_stack": "React",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in software engineering; continued learning in react tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building responsive product interfaces and reusable UI components; worked with react, javascript, typescript, html, css; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Frontend Developer",
+    "React Developer"
+  ],
+  "summary": "Junior React Developer with 2.0 years of experience in building responsive product interfaces and reusable UI components.",
+  "raw_text": "Kateryna Korniienko is a junior react developer based in Warsaw. Experience: 2.0 years. Skills: react, javascript, typescript, html, css, vite, redux. Target roles: Frontend Developer, React Developer. Focus: building responsive product interfaces and reusable UI components.",
+  "source_file": "candidate_C007.json"
+}

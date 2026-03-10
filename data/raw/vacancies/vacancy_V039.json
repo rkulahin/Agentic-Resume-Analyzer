@@ -1,0 +1,27 @@
+{
+  "vacancy_id": "V039",
+  "title": "Data Analyst",
+  "company": "BrightLabs",
+  "location": "Odesa",
+  "employment_type": "contract",
+  "years_experience_required": 3.2,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "bigquery",
+    "a/b testing"
+  ],
+  "optional_skills": [
+    "product analytics",
+    "ga4"
+  ],
+  "responsibilities": "prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in sql, python, excel, tableau, bigquery. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "BrightLabs is hiring a middle data analyst to support analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Vacancy V039: Data Analyst at BrightLabs. Location: Odesa. Employment: contract. Required experience: 3.2 years. Required skills: sql, python, excel, tableau, bigquery, a/b testing. Optional skills: product analytics, ga4. Responsibilities: prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items.",
+  "source_file": "vacancy_V039.json"
+}

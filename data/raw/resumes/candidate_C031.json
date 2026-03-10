@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C031",
+  "full_name": "Nataliia Oliinyk",
+  "location": "Remote",
+  "preferred_locations": [
+    "Remote",
+    "Dnipro"
+  ],
+  "years_experience": 1.6,
+  "seniority_level": "Junior",
+  "skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "looker",
+    "bigquery",
+    "a/b testing"
+  ],
+  "primary_stack": "Analytics",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in analytics, economics, or applied mathematics; continued learning in analytics tooling and engineering practices.",
+  "work_history": "Delivered projects focused on analyzing business metrics, building dashboards, and explaining trends; worked with sql, python, excel, tableau, looker; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "BI Analyst",
+    "Product Analyst"
+  ],
+  "summary": "Junior Data Analyst with 1.6 years of experience in analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Nataliia Oliinyk is a junior data analyst based in Remote. Experience: 1.6 years. Skills: sql, python, excel, tableau, looker, bigquery, a/b testing. Target roles: BI Analyst, Product Analyst. Focus: analyzing business metrics, building dashboards, and explaining trends.",
+  "source_file": "candidate_C031.json"
+}

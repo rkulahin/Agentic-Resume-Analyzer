@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V020",
+  "title": "Python Backend Engineer",
+  "company": "TalentGrid",
+  "location": "Kyiv",
+  "employment_type": "hybrid",
+  "years_experience_required": 1.7,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "kubernetes",
+    "aws"
+  ],
+  "optional_skills": [
+    "terraform",
+    "prometheus"
+  ],
+  "responsibilities": "design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in python, fastapi, django, postgresql, docker. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "TalentGrid is hiring a junior python backend engineer to support developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Vacancy V020: Python Backend Engineer at TalentGrid. Location: Kyiv. Employment: hybrid. Required experience: 1.7 years. Required skills: python, fastapi, django, postgresql, docker, kubernetes, aws. Optional skills: terraform, prometheus. Responsibilities: design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring.",
+  "source_file": "vacancy_V020.json"
+}

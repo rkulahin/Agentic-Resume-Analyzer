@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "V038",
+  "title": "Product Data Analyst",
+  "company": "DataBridge",
+  "location": "Kharkiv",
+  "employment_type": "hybrid",
+  "years_experience_required": 2.9,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "looker",
+    "bigquery",
+    "a/b testing",
+    "power bi"
+  ],
+  "optional_skills": [
+    "forecasting",
+    "product analytics",
+    "ga4"
+  ],
+  "responsibilities": "prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in sql, python, excel, tableau, looker. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "DataBridge is hiring a middle product data analyst to support analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Vacancy V038: Product Data Analyst at DataBridge. Location: Kharkiv. Employment: hybrid. Required experience: 2.9 years. Required skills: sql, python, excel, tableau, looker, bigquery, a/b testing, power bi. Optional skills: forecasting, product analytics, ga4. Responsibilities: prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items.",
+  "source_file": "vacancy_V038.json"
+}

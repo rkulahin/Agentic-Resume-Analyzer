@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V007",
+  "title": "React Developer",
+  "company": "CodeHarbor",
+  "location": "Lviv",
+  "employment_type": "full-time",
+  "years_experience_required": 1.7,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "vite",
+    "redux"
+  ],
+  "optional_skills": [
+    "figma",
+    "webpack"
+  ],
+  "responsibilities": "build reusable frontend components; integrate REST and GraphQL APIs; improve page performance and accessibility",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in react, javascript, typescript, html, css. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CodeHarbor is hiring a junior react developer to support building responsive product interfaces and reusable UI components.",
+  "raw_text": "Vacancy V007: React Developer at CodeHarbor. Location: Lviv. Employment: full-time. Required experience: 1.7 years. Required skills: react, javascript, typescript, html, css, vite, redux. Optional skills: figma, webpack. Responsibilities: build reusable frontend components; integrate REST and GraphQL APIs; improve page performance and accessibility.",
+  "source_file": "vacancy_V007.json"
+}

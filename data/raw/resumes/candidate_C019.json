@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C019",
+  "full_name": "Yuliia Sydorenko",
+  "location": "Kharkiv",
+  "preferred_locations": [
+    "Kharkiv",
+    "Remote"
+  ],
+  "years_experience": 1.8,
+  "seniority_level": "Junior",
+  "skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "flask",
+    "kubernetes",
+    "aws",
+    "redis"
+  ],
+  "primary_stack": "Python",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in computer science; continued learning in python tooling and engineering practices.",
+  "work_history": "Delivered projects focused on developing backend services, APIs, and data-driven platform features; worked with python, fastapi, django, postgresql, docker; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "API Developer",
+    "Python Developer"
+  ],
+  "summary": "Junior Python Backend Developer with 1.8 years of experience in developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Yuliia Sydorenko is a junior python backend developer based in Kharkiv. Experience: 1.8 years. Skills: python, fastapi, django, postgresql, docker, flask, kubernetes, aws, redis. Target roles: API Developer, Python Developer. Focus: developing backend services, APIs, and data-driven platform features.",
+  "source_file": "candidate_C019.json"
+}

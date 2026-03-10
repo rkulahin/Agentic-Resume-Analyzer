@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V031",
+  "title": "BI Analyst",
+  "company": "CodeHarbor",
+  "location": "Kharkiv",
+  "employment_type": "full-time",
+  "years_experience_required": 1.3,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "looker",
+    "bigquery",
+    "a/b testing"
+  ],
+  "optional_skills": [
+    "data storytelling",
+    "dbt"
+  ],
+  "responsibilities": "prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in sql, python, excel, tableau, looker. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CodeHarbor is hiring a junior bi analyst to support analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Vacancy V031: BI Analyst at CodeHarbor. Location: Kharkiv. Employment: full-time. Required experience: 1.3 years. Required skills: sql, python, excel, tableau, looker, bigquery, a/b testing. Optional skills: data storytelling, dbt. Responsibilities: prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items.",
+  "source_file": "vacancy_V031.json"
+}

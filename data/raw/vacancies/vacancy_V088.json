@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "V088",
+  "title": "Audit Associate",
+  "company": "CloudForge",
+  "location": "Odesa",
+  "employment_type": "full-time",
+  "years_experience_required": 2.9,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "audit",
+    "excel",
+    "financial reporting",
+    "internal controls",
+    "risk assessment",
+    "process review",
+    "compliance",
+    "data analysis",
+    "ifrs"
+  ],
+  "optional_skills": [
+    "sox",
+    "erp",
+    "stakeholder management"
+  ],
+  "responsibilities": "perform audit procedures and control testing; document findings and prepare audit reports; recommend improvements for compliance and risk mitigation",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in audit, excel, financial reporting, internal controls, risk assessment. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CloudForge is hiring a middle audit associate to support reviewing financial processes, controls, and compliance activities.",
+  "raw_text": "Vacancy V088: Audit Associate at CloudForge. Location: Odesa. Employment: full-time. Required experience: 2.9 years. Required skills: audit, excel, financial reporting, internal controls, risk assessment, process review, compliance, data analysis, ifrs. Optional skills: sox, erp, stakeholder management. Responsibilities: perform audit procedures and control testing; document findings and prepare audit reports; recommend improvements for compliance and risk mitigation.",
+  "source_file": "vacancy_V088.json"
+}

@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "V073",
+  "title": "ASP.NET Core Developer",
+  "company": "NovaSoft",
+  "location": "Kharkiv",
+  "employment_type": "full-time",
+  "years_experience_required": 2.0,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "docker",
+    "microservices",
+    "xunit",
+    "rest api"
+  ],
+  "optional_skills": [
+    "ci/cd",
+    "gRPC"
+  ],
+  "responsibilities": "develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in c#, .net, asp.net core, sql server, entity framework. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "NovaSoft is hiring a middle asp.net core developer to support building enterprise backend systems and internal business applications.",
+  "raw_text": "Vacancy V073: ASP.NET Core Developer at NovaSoft. Location: Kharkiv. Employment: full-time. Required experience: 2.0 years. Required skills: c#, .net, asp.net core, sql server, entity framework, docker, microservices, xunit, rest api. Optional skills: ci/cd, gRPC. Responsibilities: develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow.",
+  "source_file": "vacancy_V073.json"
+}

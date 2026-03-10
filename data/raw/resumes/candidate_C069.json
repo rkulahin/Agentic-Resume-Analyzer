@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C069",
+  "full_name": "Anastasiia Bondarenko",
+  "location": "Odesa",
+  "preferred_locations": [
+    "Odesa",
+    "Remote"
+  ],
+  "years_experience": 1.6,
+  "seniority_level": "Junior",
+  "skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "rest api",
+    "redis",
+    "blazor"
+  ],
+  "primary_stack": ".NET",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in software engineering or computer science; continued learning in .net tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building enterprise backend systems and internal business applications; worked with c#, .net, asp.net core, sql server, entity framework; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    ".NET Engineer",
+    "Backend .NET Developer"
+  ],
+  "summary": "Junior C# .NET Developer with 1.6 years of experience in building enterprise backend systems and internal business applications.",
+  "raw_text": "Anastasiia Bondarenko is a junior c# .net developer based in Odesa. Experience: 1.6 years. Skills: c#, .net, asp.net core, sql server, entity framework, rest api, redis, blazor. Target roles: .NET Engineer, Backend .NET Developer. Focus: building enterprise backend systems and internal business applications.",
+  "source_file": "candidate_C069.json"
+}

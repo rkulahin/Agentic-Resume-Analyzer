@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C057",
+  "full_name": "Marta Mazur",
+  "location": "Kyiv",
+  "preferred_locations": [
+    "Kyiv",
+    "Remote"
+  ],
+  "years_experience": 1.6,
+  "seniority_level": "Junior",
+  "skills": [
+    "digital marketing",
+    "content strategy",
+    "seo",
+    "google analytics",
+    "campaign management",
+    "meta ads",
+    "google ads",
+    "crm"
+  ],
+  "primary_stack": "Marketing",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in marketing, communications, or business; continued learning in marketing tooling and engineering practices.",
+  "work_history": "Delivered projects focused on planning and executing acquisition, retention, and content campaigns; worked with digital marketing, content strategy, seo, google analytics, campaign management; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Growth Marketer",
+    "Digital Marketing Manager"
+  ],
+  "summary": "Junior Marketing Specialist with 1.6 years of experience in planning and executing acquisition, retention, and content campaigns.",
+  "raw_text": "Marta Mazur is a junior marketing specialist based in Kyiv. Experience: 1.6 years. Skills: digital marketing, content strategy, seo, google analytics, campaign management, meta ads, google ads, crm. Target roles: Growth Marketer, Digital Marketing Manager. Focus: planning and executing acquisition, retention, and content campaigns.",
+  "source_file": "candidate_C057.json"
+}

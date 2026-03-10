@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C099",
+  "full_name": "Yuliia Sydorenko",
+  "location": "Kyiv",
+  "preferred_locations": [
+    "Kyiv",
+    "Remote"
+  ],
+  "years_experience": 2.8,
+  "seniority_level": "Middle",
+  "skills": [
+    "tax compliance",
+    "tax planning",
+    "excel",
+    "accounting",
+    "tax legislation",
+    "reporting",
+    "risk analysis",
+    "advisory"
+  ],
+  "primary_stack": "Tax Consulting",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in tax, finance, accounting, or law; continued learning in tax consulting tooling and engineering practices.",
+  "work_history": "Delivered projects focused on supporting businesses with tax compliance, planning, and advisory work; worked with tax compliance, tax planning, excel, accounting, tax legislation; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Tax Advisor",
+    "Tax Associate"
+  ],
+  "summary": "Middle Tax Consultant with 2.8 years of experience in supporting businesses with tax compliance, planning, and advisory work.",
+  "raw_text": "Yuliia Sydorenko is a middle tax consultant based in Kyiv. Experience: 2.8 years. Skills: tax compliance, tax planning, excel, accounting, tax legislation, reporting, risk analysis, advisory. Target roles: Tax Advisor, Tax Associate. Focus: supporting businesses with tax compliance, planning, and advisory work.",
+  "source_file": "candidate_C099.json"
+}

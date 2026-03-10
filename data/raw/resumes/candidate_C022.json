@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C022",
+  "full_name": "Andrii Tkachenko",
+  "location": "Kyiv",
+  "preferred_locations": [
+    "Kyiv",
+    "Remote"
+  ],
+  "years_experience": 2.0,
+  "seniority_level": "Middle",
+  "skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "redis",
+    "celery",
+    "sqlalchemy",
+    "pytest"
+  ],
+  "primary_stack": "Python",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in computer science; continued learning in python tooling and engineering practices.",
+  "work_history": "Delivered projects focused on developing backend services, APIs, and data-driven platform features; worked with python, fastapi, django, postgresql, docker; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "API Developer",
+    "Python Developer"
+  ],
+  "summary": "Middle Python Backend Developer with 2.0 years of experience in developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Andrii Tkachenko is a middle python backend developer based in Kyiv. Experience: 2.0 years. Skills: python, fastapi, django, postgresql, docker, redis, celery, sqlalchemy, pytest. Target roles: API Developer, Python Developer. Focus: developing backend services, APIs, and data-driven platform features.",
+  "source_file": "candidate_C022.json"
+}

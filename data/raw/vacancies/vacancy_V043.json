@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V043",
+  "title": "QA Engineer",
+  "company": "CodeHarbor",
+  "location": "Remote",
+  "employment_type": "full-time",
+  "years_experience_required": 1.1,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "playwright",
+    "python"
+  ],
+  "optional_skills": [
+    "bug reporting",
+    "test planning",
+    "performance testing"
+  ],
+  "responsibilities": "create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in testing, jira, sql, postman, playwright. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CodeHarbor is hiring a junior qa engineer to support validating product quality through manual and automated testing.",
+  "raw_text": "Vacancy V043: QA Engineer at CodeHarbor. Location: Remote. Employment: full-time. Required experience: 1.1 years. Required skills: testing, jira, sql, postman, playwright, python. Optional skills: bug reporting, test planning, performance testing. Responsibilities: create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams.",
+  "source_file": "vacancy_V043.json"
+}

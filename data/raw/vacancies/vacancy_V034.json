@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V034",
+  "title": "BI Analyst",
+  "company": "CoreStack",
+  "location": "Kyiv",
+  "employment_type": "full-time",
+  "years_experience_required": 1.9,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "power bi",
+    "pandas",
+    "statistics"
+  ],
+  "optional_skills": [
+    "product analytics",
+    "ga4",
+    "data storytelling"
+  ],
+  "responsibilities": "prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in sql, python, excel, tableau, power bi. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CoreStack is hiring a junior bi analyst to support analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Vacancy V034: BI Analyst at CoreStack. Location: Kyiv. Employment: full-time. Required experience: 1.9 years. Required skills: sql, python, excel, tableau, power bi, pandas, statistics. Optional skills: product analytics, ga4, data storytelling. Responsibilities: prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items.",
+  "source_file": "vacancy_V034.json"
+}

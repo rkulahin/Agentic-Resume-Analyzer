@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C096",
+  "full_name": "Denys Kravets",
+  "location": "Kharkiv",
+  "preferred_locations": [
+    "Kharkiv",
+    "Remote"
+  ],
+  "years_experience": 2.2,
+  "seniority_level": "Junior",
+  "skills": [
+    "tax compliance",
+    "tax planning",
+    "excel",
+    "accounting",
+    "tax legislation",
+    "vat",
+    "corporate tax",
+    "transfer pricing"
+  ],
+  "primary_stack": "Tax Consulting",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in tax, finance, accounting, or law; continued learning in tax consulting tooling and engineering practices.",
+  "work_history": "Delivered projects focused on supporting businesses with tax compliance, planning, and advisory work; worked with tax compliance, tax planning, excel, accounting, tax legislation; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Tax Advisor",
+    "Tax Associate"
+  ],
+  "summary": "Junior Tax Consultant with 2.2 years of experience in supporting businesses with tax compliance, planning, and advisory work.",
+  "raw_text": "Denys Kravets is a junior tax consultant based in Kharkiv. Experience: 2.2 years. Skills: tax compliance, tax planning, excel, accounting, tax legislation, vat, corporate tax, transfer pricing. Target roles: Tax Advisor, Tax Associate. Focus: supporting businesses with tax compliance, planning, and advisory work.",
+  "source_file": "candidate_C096.json"
+}

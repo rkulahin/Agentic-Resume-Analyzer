@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V011",
+  "title": "Frontend Engineer",
+  "company": "MetricWave",
+  "location": "Odesa",
+  "employment_type": "hybrid",
+  "years_experience_required": 2.6,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "jest",
+    "cypress",
+    "tailwind"
+  ],
+  "optional_skills": [
+    "storybook",
+    "figma"
+  ],
+  "responsibilities": "build reusable frontend components; integrate REST and GraphQL APIs; improve page performance and accessibility",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in react, javascript, typescript, html, css. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "MetricWave is hiring a middle frontend engineer to support building responsive product interfaces and reusable UI components.",
+  "raw_text": "Vacancy V011: Frontend Engineer at MetricWave. Location: Odesa. Employment: hybrid. Required experience: 2.6 years. Required skills: react, javascript, typescript, html, css, jest, cypress, tailwind. Optional skills: storybook, figma. Responsibilities: build reusable frontend components; integrate REST and GraphQL APIs; improve page performance and accessibility.",
+  "source_file": "vacancy_V011.json"
+}

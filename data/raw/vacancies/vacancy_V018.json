@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V018",
+  "title": "FastAPI Developer",
+  "company": "InsightFlow",
+  "location": "Odesa",
+  "employment_type": "contract",
+  "years_experience_required": 1.3,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "pytest",
+    "flask",
+    "kubernetes"
+  ],
+  "optional_skills": [
+    "linux",
+    "rabbitmq"
+  ],
+  "responsibilities": "design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in python, fastapi, django, postgresql, docker. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "InsightFlow is hiring a junior fastapi developer to support developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Vacancy V018: FastAPI Developer at InsightFlow. Location: Odesa. Employment: contract. Required experience: 1.3 years. Required skills: python, fastapi, django, postgresql, docker, pytest, flask, kubernetes. Optional skills: linux, rabbitmq. Responsibilities: design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring.",
+  "source_file": "vacancy_V018.json"
+}

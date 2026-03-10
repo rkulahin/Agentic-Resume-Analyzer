@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V017",
+  "title": "Python Backend Engineer",
+  "company": "VectorApps",
+  "location": "Kharkiv",
+  "employment_type": "hybrid",
+  "years_experience_required": 1.1,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "sqlalchemy",
+    "pytest"
+  ],
+  "optional_skills": [
+    "microservices",
+    "linux",
+    "rabbitmq"
+  ],
+  "responsibilities": "design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in python, fastapi, django, postgresql, docker. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "VectorApps is hiring a junior python backend engineer to support developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Vacancy V017: Python Backend Engineer at VectorApps. Location: Kharkiv. Employment: hybrid. Required experience: 1.1 years. Required skills: python, fastapi, django, postgresql, docker, sqlalchemy, pytest. Optional skills: microservices, linux, rabbitmq. Responsibilities: design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring.",
+  "source_file": "vacancy_V017.json"
+}

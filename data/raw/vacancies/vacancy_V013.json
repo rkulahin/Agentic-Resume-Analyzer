@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V013",
+  "title": "React Developer",
+  "company": "NovaSoft",
+  "location": "Kyiv",
+  "employment_type": "full-time",
+  "years_experience_required": 3.2,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "tailwind",
+    "vite"
+  ],
+  "optional_skills": [
+    "webpack",
+    "accessibility"
+  ],
+  "responsibilities": "build reusable frontend components; integrate REST and GraphQL APIs; improve page performance and accessibility",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in react, javascript, typescript, html, css. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "NovaSoft is hiring a middle react developer to support building responsive product interfaces and reusable UI components.",
+  "raw_text": "Vacancy V013: React Developer at NovaSoft. Location: Kyiv. Employment: full-time. Required experience: 3.2 years. Required skills: react, javascript, typescript, html, css, tailwind, vite. Optional skills: webpack, accessibility. Responsibilities: build reusable frontend components; integrate REST and GraphQL APIs; improve page performance and accessibility.",
+  "source_file": "vacancy_V013.json"
+}

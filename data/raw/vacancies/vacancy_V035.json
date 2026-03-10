@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V035",
+  "title": "Product Data Analyst",
+  "company": "MetricWave",
+  "location": "Lviv",
+  "employment_type": "hybrid",
+  "years_experience_required": 2.0,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "pandas",
+    "statistics",
+    "airflow",
+    "looker"
+  ],
+  "optional_skills": [
+    "ga4",
+    "data storytelling"
+  ],
+  "responsibilities": "prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in sql, python, excel, tableau, pandas. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "MetricWave is hiring a middle product data analyst to support analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Vacancy V035: Product Data Analyst at MetricWave. Location: Lviv. Employment: hybrid. Required experience: 2.0 years. Required skills: sql, python, excel, tableau, pandas, statistics, airflow, looker. Optional skills: ga4, data storytelling. Responsibilities: prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items.",
+  "source_file": "vacancy_V035.json"
+}

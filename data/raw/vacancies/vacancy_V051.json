@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "V051",
+  "title": "Software Test Engineer",
+  "company": "BrightLabs",
+  "location": "Dnipro",
+  "employment_type": "contract",
+  "years_experience_required": 2.9,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "python",
+    "java",
+    "test automation",
+    "selenium"
+  ],
+  "optional_skills": [
+    "mobile testing",
+    "ci/cd",
+    "bug reporting"
+  ],
+  "responsibilities": "create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in testing, jira, sql, postman, python. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "BrightLabs is hiring a middle software test engineer to support validating product quality through manual and automated testing.",
+  "raw_text": "Vacancy V051: Software Test Engineer at BrightLabs. Location: Dnipro. Employment: contract. Required experience: 2.9 years. Required skills: testing, jira, sql, postman, python, java, test automation, selenium. Optional skills: mobile testing, ci/cd, bug reporting. Responsibilities: create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams.",
+  "source_file": "vacancy_V051.json"
+}

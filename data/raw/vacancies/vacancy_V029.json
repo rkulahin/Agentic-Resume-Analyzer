@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V029",
+  "title": "Product Data Analyst",
+  "company": "VectorApps",
+  "location": "Remote",
+  "employment_type": "hybrid",
+  "years_experience_required": 0.9,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "statistics",
+    "airflow",
+    "looker",
+    "bigquery"
+  ],
+  "optional_skills": [
+    "product analytics",
+    "ga4"
+  ],
+  "responsibilities": "prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in sql, python, excel, tableau, statistics. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "VectorApps is hiring a junior product data analyst to support analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Vacancy V029: Product Data Analyst at VectorApps. Location: Remote. Employment: hybrid. Required experience: 0.9 years. Required skills: sql, python, excel, tableau, statistics, airflow, looker, bigquery. Optional skills: product analytics, ga4. Responsibilities: prepare datasets and business reports; build dashboards for product and operations teams; translate analytical findings into action items.",
+  "source_file": "vacancy_V029.json"
+}

@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C091",
+  "full_name": "Nataliia Oliinyk",
+  "location": "Warsaw",
+  "preferred_locations": [
+    "Warsaw",
+    "Remote"
+  ],
+  "years_experience": 1.2,
+  "seniority_level": "Junior",
+  "skills": [
+    "tax compliance",
+    "tax planning",
+    "excel",
+    "accounting",
+    "tax legislation",
+    "transfer pricing",
+    "reporting",
+    "risk analysis",
+    "advisory"
+  ],
+  "primary_stack": "Tax Consulting",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in tax, finance, accounting, or law; continued learning in tax consulting tooling and engineering practices.",
+  "work_history": "Delivered projects focused on supporting businesses with tax compliance, planning, and advisory work; worked with tax compliance, tax planning, excel, accounting, tax legislation; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Tax Associate",
+    "Tax Consultant"
+  ],
+  "summary": "Junior Tax Consultant with 1.2 years of experience in supporting businesses with tax compliance, planning, and advisory work.",
+  "raw_text": "Nataliia Oliinyk is a junior tax consultant based in Warsaw. Experience: 1.2 years. Skills: tax compliance, tax planning, excel, accounting, tax legislation, transfer pricing, reporting, risk analysis, advisory. Target roles: Tax Associate, Tax Consultant. Focus: supporting businesses with tax compliance, planning, and advisory work.",
+  "source_file": "candidate_C091.json"
+}

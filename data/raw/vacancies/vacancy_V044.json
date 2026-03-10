@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V044",
+  "title": "Automation QA Engineer",
+  "company": "TalentGrid",
+  "location": "Dnipro",
+  "employment_type": "hybrid",
+  "years_experience_required": 1.3,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "python",
+    "java",
+    "test automation"
+  ],
+  "optional_skills": [
+    "test planning",
+    "performance testing"
+  ],
+  "responsibilities": "create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in testing, jira, sql, postman, python. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "TalentGrid is hiring a junior automation qa engineer to support validating product quality through manual and automated testing.",
+  "raw_text": "Vacancy V044: Automation QA Engineer at TalentGrid. Location: Dnipro. Employment: hybrid. Required experience: 1.3 years. Required skills: testing, jira, sql, postman, python, java, test automation. Optional skills: test planning, performance testing. Responsibilities: create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams.",
+  "source_file": "vacancy_V044.json"
+}

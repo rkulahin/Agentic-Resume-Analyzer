@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C005",
+  "full_name": "Sofiia Kushnir",
+  "location": "Kharkiv",
+  "preferred_locations": [
+    "Kharkiv",
+    "Remote"
+  ],
+  "years_experience": 1.6,
+  "seniority_level": "Junior",
+  "skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "cypress",
+    "tailwind",
+    "vite"
+  ],
+  "primary_stack": "React",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in software engineering; continued learning in react tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building responsive product interfaces and reusable UI components; worked with react, javascript, typescript, html, css; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "React Developer",
+    "UI Engineer"
+  ],
+  "summary": "Junior React Developer with 1.6 years of experience in building responsive product interfaces and reusable UI components.",
+  "raw_text": "Sofiia Kushnir is a junior react developer based in Kharkiv. Experience: 1.6 years. Skills: react, javascript, typescript, html, css, cypress, tailwind, vite. Target roles: React Developer, UI Engineer. Focus: building responsive product interfaces and reusable UI components.",
+  "source_file": "candidate_C005.json"
+}

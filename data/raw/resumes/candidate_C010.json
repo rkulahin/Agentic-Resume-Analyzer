@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C010",
+  "full_name": "Roman Savchenko",
+  "location": "Remote",
+  "preferred_locations": [
+    "Remote",
+    "Dnipro"
+  ],
+  "years_experience": 2.4,
+  "seniority_level": "Middle",
+  "skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "graphql",
+    "jest"
+  ],
+  "primary_stack": "React",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in software engineering; continued learning in react tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building responsive product interfaces and reusable UI components; worked with react, javascript, typescript, html, css; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Frontend Developer",
+    "React Developer"
+  ],
+  "summary": "Middle React Developer with 2.4 years of experience in building responsive product interfaces and reusable UI components.",
+  "raw_text": "Roman Savchenko is a middle react developer based in Remote. Experience: 2.4 years. Skills: react, javascript, typescript, html, css, graphql, jest. Target roles: Frontend Developer, React Developer. Focus: building responsive product interfaces and reusable UI components.",
+  "source_file": "candidate_C010.json"
+}

@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V093",
+  "title": "Tax Advisor",
+  "company": "PixelCraft",
+  "location": "Dnipro",
+  "employment_type": "contract",
+  "years_experience_required": 1.3,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "tax compliance",
+    "tax planning",
+    "excel",
+    "accounting",
+    "tax legislation",
+    "risk analysis",
+    "advisory",
+    "1c"
+  ],
+  "optional_skills": [
+    "financial modeling",
+    "ifrs"
+  ],
+  "responsibilities": "prepare tax calculations and compliance documents; analyze legislation changes and client impact; advise stakeholders on tax risks and optimization opportunities",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in tax compliance, tax planning, excel, accounting, tax legislation. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "PixelCraft is hiring a junior tax advisor to support supporting businesses with tax compliance, planning, and advisory work.",
+  "raw_text": "Vacancy V093: Tax Advisor at PixelCraft. Location: Dnipro. Employment: contract. Required experience: 1.3 years. Required skills: tax compliance, tax planning, excel, accounting, tax legislation, risk analysis, advisory, 1c. Optional skills: financial modeling, ifrs. Responsibilities: prepare tax calculations and compliance documents; analyze legislation changes and client impact; advise stakeholders on tax risks and optimization opportunities.",
+  "source_file": "vacancy_V093.json"
+}

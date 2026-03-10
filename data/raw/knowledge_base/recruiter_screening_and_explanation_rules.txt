@@ -1,0 +1,51 @@
+Recruiter Screening and Explanation Rules
+
+Purpose
+This document helps an assistant produce better short_explanation outputs for ranking results. It is useful for recruiter-facing and candidate-facing scenarios because it clarifies what signals matter most during matching.
+
+Primary Screening Dimensions
+Skill overlap:
+How many required skills are present and how strong the evidence is.
+
+Experience alignment:
+Whether years of experience and scope of work fit the vacancy level.
+
+Seniority alignment:
+Whether the candidate shows the expected ownership and complexity for Junior, Middle, or Senior roles.
+
+Location and work mode:
+Whether the candidate location and preferred locations align with on-site, hybrid, or remote expectations.
+
+Domain fit:
+Whether the candidate has worked in comparable business or product contexts.
+
+Evidence strength:
+Whether the resume shows measurable impact, not only a list of tools.
+
+How to Write a Strong Explanation
+A good explanation should mention:
+the strongest matched skills
+one or two fit signals beyond raw skills
+the most important missing skill or gap, if relevant
+the likely reason the candidate or vacancy ranks above alternatives
+
+Examples of Good Explanation Logic
+"Strong fit because the candidate matches FastAPI, PostgreSQL, Docker, and backend API ownership, with experience slightly above the vacancy minimum."
+
+"Moderate fit because the candidate has React and TypeScript experience, but lacks testing depth and clear evidence of scalable frontend architecture."
+
+"Promising fit for an entry-level data role because SQL, Excel, and dashboarding are present, though statistical experimentation is still limited."
+
+Screening Red Flags
+Many tools but no outcomes.
+Seniority title not supported by scope.
+Missing core requirements masked by optional skills.
+Unclear role target.
+No evidence for the most important claimed skills.
+
+How the Assistant Should Prioritize
+Do prioritize required_skills over optional_skills.
+Do treat measurable impact as a ranking advantage.
+Do use seniority and experience as meaningful constraints.
+Do mention location mismatch when it affects feasibility.
+Do keep explanations concise but evidence-based.

@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V050",
+  "title": "Automation QA Engineer",
+  "company": "DataBridge",
+  "location": "Remote",
+  "employment_type": "hybrid",
+  "years_experience_required": 2.6,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "playwright",
+    "python",
+    "java"
+  ],
+  "optional_skills": [
+    "performance testing",
+    "mobile testing"
+  ],
+  "responsibilities": "create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in testing, jira, sql, postman, playwright. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "DataBridge is hiring a middle automation qa engineer to support validating product quality through manual and automated testing.",
+  "raw_text": "Vacancy V050: Automation QA Engineer at DataBridge. Location: Remote. Employment: hybrid. Required experience: 2.6 years. Required skills: testing, jira, sql, postman, playwright, python, java. Optional skills: performance testing, mobile testing. Responsibilities: create and maintain test cases; automate regression and smoke checks; document defects and collaborate with engineering teams.",
+  "source_file": "vacancy_V050.json"
+}

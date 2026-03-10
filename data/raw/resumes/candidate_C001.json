@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C001",
+  "full_name": "Olena Shevchenko",
+  "location": "Kyiv",
+  "preferred_locations": [
+    "Kyiv",
+    "Remote"
+  ],
+  "years_experience": 0.8,
+  "seniority_level": "Junior",
+  "skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "redux",
+    "next.js"
+  ],
+  "primary_stack": "React",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in software engineering; continued learning in react tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building responsive product interfaces and reusable UI components; worked with react, javascript, typescript, html, css; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Frontend Developer",
+    "React Developer"
+  ],
+  "summary": "Junior React Developer with 0.8 years of experience in building responsive product interfaces and reusable UI components.",
+  "raw_text": "Olena Shevchenko is a junior react developer based in Kyiv. Experience: 0.8 years. Skills: react, javascript, typescript, html, css, redux, next.js. Target roles: Frontend Developer, React Developer. Focus: building responsive product interfaces and reusable UI components.",
+  "source_file": "candidate_C001.json"
+}

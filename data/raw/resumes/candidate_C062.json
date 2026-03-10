@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C062",
+  "full_name": "Andrii Tkachenko",
+  "location": "Odesa",
+  "preferred_locations": [
+    "Odesa",
+    "Remote"
+  ],
+  "years_experience": 2.4,
+  "seniority_level": "Middle",
+  "skills": [
+    "digital marketing",
+    "content strategy",
+    "seo",
+    "google analytics",
+    "campaign management",
+    "copywriting",
+    "hubspot"
+  ],
+  "primary_stack": "Marketing",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in marketing, communications, or business; continued learning in marketing tooling and engineering practices.",
+  "work_history": "Delivered projects focused on planning and executing acquisition, retention, and content campaigns; worked with digital marketing, content strategy, seo, google analytics, campaign management; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Marketing Specialist",
+    "Growth Marketer"
+  ],
+  "summary": "Middle Marketing Specialist with 2.4 years of experience in planning and executing acquisition, retention, and content campaigns.",
+  "raw_text": "Andrii Tkachenko is a middle marketing specialist based in Odesa. Experience: 2.4 years. Skills: digital marketing, content strategy, seo, google analytics, campaign management, copywriting, hubspot. Target roles: Marketing Specialist, Growth Marketer. Focus: planning and executing acquisition, retention, and content campaigns.",
+  "source_file": "candidate_C062.json"
+}

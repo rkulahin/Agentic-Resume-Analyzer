@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C015",
+  "full_name": "Alina Melnyk",
+  "location": "Kyiv",
+  "preferred_locations": [
+    "Kyiv",
+    "Remote"
+  ],
+  "years_experience": 1.0,
+  "seniority_level": "Junior",
+  "skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "redis",
+    "celery",
+    "sqlalchemy"
+  ],
+  "primary_stack": "Python",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in computer science; continued learning in python tooling and engineering practices.",
+  "work_history": "Delivered projects focused on developing backend services, APIs, and data-driven platform features; worked with python, fastapi, django, postgresql, docker; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Backend Engineer",
+    "API Developer"
+  ],
+  "summary": "Junior Python Backend Developer with 1.0 years of experience in developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Alina Melnyk is a junior python backend developer based in Kyiv. Experience: 1.0 years. Skills: python, fastapi, django, postgresql, docker, redis, celery, sqlalchemy. Target roles: Backend Engineer, API Developer. Focus: developing backend services, APIs, and data-driven platform features.",
+  "source_file": "candidate_C015.json"
+}

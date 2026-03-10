@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "V022",
+  "title": "Backend Python Engineer",
+  "company": "CoreStack",
+  "location": "Remote",
+  "employment_type": "full-time",
+  "years_experience_required": 2.0,
+  "seniority_level": "Middle",
+  "required_skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "redis",
+    "celery",
+    "sqlalchemy",
+    "pytest"
+  ],
+  "optional_skills": [
+    "microservices",
+    "linux"
+  ],
+  "responsibilities": "design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring",
+  "requirements_text": "We are looking for a middle specialist with hands-on experience in python, fastapi, django, postgresql, docker. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CoreStack is hiring a middle backend python engineer to support developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Vacancy V022: Backend Python Engineer at CoreStack. Location: Remote. Employment: full-time. Required experience: 2.0 years. Required skills: python, fastapi, django, postgresql, docker, redis, celery, sqlalchemy, pytest. Optional skills: microservices, linux. Responsibilities: design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring.",
+  "source_file": "vacancy_V022.json"
+}

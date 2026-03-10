@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V071",
+  "title": "C# Developer",
+  "company": "MetricWave",
+  "location": "Remote",
+  "employment_type": "hybrid",
+  "years_experience_required": 1.7,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "blazor",
+    "azure"
+  ],
+  "optional_skills": [
+    "message queues",
+    "clean architecture"
+  ],
+  "responsibilities": "develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in c#, .net, asp.net core, sql server, entity framework. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "MetricWave is hiring a junior c# developer to support building enterprise backend systems and internal business applications.",
+  "raw_text": "Vacancy V071: C# Developer at MetricWave. Location: Remote. Employment: hybrid. Required experience: 1.7 years. Required skills: c#, .net, asp.net core, sql server, entity framework, blazor, azure. Optional skills: message queues, clean architecture. Responsibilities: develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow.",
+  "source_file": "vacancy_V071.json"
+}

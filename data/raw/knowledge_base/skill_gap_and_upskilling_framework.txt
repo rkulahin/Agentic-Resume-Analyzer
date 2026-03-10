@@ -1,0 +1,93 @@
+Skill Gap and Upskilling Framework
+
+Purpose
+This document helps an assistant explain the difference between current candidate qualifications and target vacancy requirements. It is useful for generating missing_skills, prioritization advice, and realistic next steps.
+
+Definition of a Skill Gap
+A skill gap is the difference between what a role requires and what the candidate can credibly demonstrate today. A gap can be:
+hard skill gap
+tool gap
+domain gap
+seniority gap
+ownership gap
+communication gap
+
+Gap Categories
+Critical gap:
+Missing a core requirement that appears essential for day-one performance. Examples: no SQL for a Data Analyst role, no tax compliance knowledge for a Tax Consultant role, no ASP.NET Core for a .NET backend role when it is central to the vacancy.
+
+Important gap:
+A skill that is not strictly blocking but strongly improves competitiveness. Examples: cloud deployment for backend roles, dashboarding tools for analysts, automation for QA, Google Ads for growth marketing.
+
+Optional gap:
+A bonus skill that helps ranking but should not dominate the final decision. Examples: Storybook for frontend roles, ERP exposure for audit and tax roles, advanced A/B testing for marketing, performance testing for QA.
+
+How to Identify Gaps
+Step 1:
+Extract required_skills and optional_skills from the vacancy.
+
+Step 2:
+Compare them to demonstrated skills in the candidate profile, not just claimed skills in isolation.
+
+Step 3:
+Check years_experience and seniority_level alignment.
+
+Step 4:
+Check adjacent evidence. Example: a candidate may not list "A/B testing" directly but may show experimentation work in marketing analytics or product analysis.
+
+Step 5:
+Separate missing hard requirements from nice-to-have extras.
+
+How to Prioritize Gaps
+Prioritize by:
+frequency across many target vacancies
+importance for the desired role
+time-to-learn
+ability to show evidence quickly
+
+Priority order:
+first close hard blockers
+then close high-frequency domain skills
+then add differentiators
+
+Learning Strategy Recommendations
+For tool gaps:
+Take a focused course, complete a practical project, and show the output publicly if possible.
+
+For framework gaps:
+Build one realistic end-to-end project. Example: FastAPI CRUD service, React dashboard, Cypress test suite, Google Ads campaign simulation, ASP.NET Core API.
+
+For domain gaps:
+Study real artifacts such as financial statements, audit checklists, tax regulations, campaign reports, or analytics dashboards. Domain language matters in resumes and interviews.
+
+For seniority gaps:
+The answer is rarely "learn one more tool." Recommend deeper ownership, system thinking, stakeholder work, mentoring, or reporting responsibility.
+
+How to Demonstrate Closed Gaps
+Projects.
+Case studies.
+Portfolio links.
+Updated resume bullets.
+Short documentation or write-ups.
+Internal work examples.
+Certifications when the market values them.
+
+Examples of Good Assistant Advice
+If a backend candidate is missing Docker and AWS:
+Recommend adding one API deployment project with Docker, environment variables, logging, and cloud hosting.
+
+If a marketer is missing Google Ads but has Meta Ads:
+Recommend learning paid search fundamentals and creating one campaign structure case study to show channel breadth.
+
+If an audit candidate is missing IFRS:
+Recommend targeted study of reporting standards plus one example of applying them in audit documentation or financial statement review.
+
+If a tax candidate lacks VAT and corporate tax depth:
+Recommend studying the most common business tax scenarios and creating a structured note on compliance deadlines, filing logic, and common risks.
+
+Assistant Output Rules
+Do not present every missing skill as equally important.
+Do not recommend unrealistic short-term plans for large seniority gaps.
+Do recommend quick wins and one longer-term investment.
+Do distinguish between "missing," "partially demonstrated," and "adjacent evidence."
+Do connect recommendations to target roles and market demand.

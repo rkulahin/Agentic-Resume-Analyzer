@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C037",
+  "full_name": "Marta Mazur",
+  "location": "Lviv",
+  "preferred_locations": [
+    "Lviv",
+    "Remote"
+  ],
+  "years_experience": 2.8,
+  "seniority_level": "Middle",
+  "skills": [
+    "sql",
+    "python",
+    "excel",
+    "tableau",
+    "airflow",
+    "looker",
+    "bigquery"
+  ],
+  "primary_stack": "Analytics",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in analytics, economics, or applied mathematics; continued learning in analytics tooling and engineering practices.",
+  "work_history": "Delivered projects focused on analyzing business metrics, building dashboards, and explaining trends; worked with sql, python, excel, tableau, airflow; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "BI Analyst",
+    "Product Analyst"
+  ],
+  "summary": "Middle Data Analyst with 2.8 years of experience in analyzing business metrics, building dashboards, and explaining trends.",
+  "raw_text": "Marta Mazur is a middle data analyst based in Lviv. Experience: 2.8 years. Skills: sql, python, excel, tableau, airflow, looker, bigquery. Target roles: BI Analyst, Product Analyst. Focus: analyzing business metrics, building dashboards, and explaining trends.",
+  "source_file": "candidate_C037.json"
+}

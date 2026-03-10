@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "V065",
+  "title": "C# Developer",
+  "company": "VectorApps",
+  "location": "Dnipro",
+  "employment_type": "hybrid",
+  "years_experience_required": 0.5,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "azure",
+    "docker"
+  ],
+  "optional_skills": [
+    "kubernetes",
+    "message queues"
+  ],
+  "responsibilities": "develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in c#, .net, asp.net core, sql server, entity framework. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "VectorApps is hiring a junior c# developer to support building enterprise backend systems and internal business applications.",
+  "raw_text": "Vacancy V065: C# Developer at VectorApps. Location: Dnipro. Employment: hybrid. Required experience: 0.5 years. Required skills: c#, .net, asp.net core, sql server, entity framework, azure, docker. Optional skills: kubernetes, message queues. Responsibilities: develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow.",
+  "source_file": "vacancy_V065.json"
+}

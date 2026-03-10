@@ -1,0 +1,33 @@
+{
+  "candidate_id": "C043",
+  "full_name": "Iryna Polishchuk",
+  "location": "Kyiv",
+  "preferred_locations": [
+    "Kyiv",
+    "Remote"
+  ],
+  "years_experience": 1.4,
+  "seniority_level": "Junior",
+  "skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "playwright",
+    "python"
+  ],
+  "primary_stack": "QA Automation",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in computer science or quality engineering; continued learning in qa automation tooling and engineering practices.",
+  "work_history": "Delivered projects focused on validating product quality through manual and automated testing; worked with testing, jira, sql, postman, playwright; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "QA Engineer",
+    "Automation QA"
+  ],
+  "summary": "Junior QA Engineer with 1.4 years of experience in validating product quality through manual and automated testing.",
+  "raw_text": "Iryna Polishchuk is a junior qa engineer based in Kyiv. Experience: 1.4 years. Skills: testing, jira, sql, postman, playwright, python. Target roles: QA Engineer, Automation QA. Focus: validating product quality through manual and automated testing.",
+  "source_file": "candidate_C043.json"
+}

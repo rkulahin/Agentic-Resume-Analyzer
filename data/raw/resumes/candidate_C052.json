@@ -1,0 +1,33 @@
+{
+  "candidate_id": "C052",
+  "full_name": "Bohdan Pavlenko",
+  "location": "Remote",
+  "preferred_locations": [
+    "Remote",
+    "Dnipro"
+  ],
+  "years_experience": 3.6,
+  "seniority_level": "Middle",
+  "skills": [
+    "testing",
+    "jira",
+    "sql",
+    "postman",
+    "java",
+    "test automation"
+  ],
+  "primary_stack": "QA Automation",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in computer science or quality engineering; continued learning in qa automation tooling and engineering practices.",
+  "work_history": "Delivered projects focused on validating product quality through manual and automated testing; worked with testing, jira, sql, postman, java; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "QA Engineer",
+    "Automation QA"
+  ],
+  "summary": "Middle QA Engineer with 3.6 years of experience in validating product quality through manual and automated testing.",
+  "raw_text": "Bohdan Pavlenko is a middle qa engineer based in Remote. Experience: 3.6 years. Skills: testing, jira, sql, postman, java, test automation. Target roles: QA Engineer, Automation QA. Focus: validating product quality through manual and automated testing.",
+  "source_file": "candidate_C052.json"
+}

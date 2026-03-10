@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "V019",
+  "title": "Backend Python Engineer",
+  "company": "CodeHarbor",
+  "location": "Warsaw",
+  "employment_type": "full-time",
+  "years_experience_required": 1.5,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "flask",
+    "kubernetes",
+    "aws",
+    "redis"
+  ],
+  "optional_skills": [
+    "rabbitmq",
+    "terraform",
+    "prometheus"
+  ],
+  "responsibilities": "design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in python, fastapi, django, postgresql, docker. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "CodeHarbor is hiring a junior backend python engineer to support developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Vacancy V019: Backend Python Engineer at CodeHarbor. Location: Warsaw. Employment: full-time. Required experience: 1.5 years. Required skills: python, fastapi, django, postgresql, docker, flask, kubernetes, aws, redis. Optional skills: rabbitmq, terraform, prometheus. Responsibilities: design and maintain backend APIs; optimize database queries and service performance; ship reliable services with tests and monitoring.",
+  "source_file": "vacancy_V019.json"
+}

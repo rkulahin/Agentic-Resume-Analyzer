@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C009",
+  "full_name": "Anastasiia Bondarenko",
+  "location": "Lviv",
+  "preferred_locations": [
+    "Lviv",
+    "Remote"
+  ],
+  "years_experience": 2.0,
+  "seniority_level": "Middle",
+  "skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "next.js",
+    "graphql",
+    "jest",
+    "cypress"
+  ],
+  "primary_stack": "React",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in software engineering; continued learning in react tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building responsive product interfaces and reusable UI components; worked with react, javascript, typescript, html, css; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "UI Engineer",
+    "Frontend Developer"
+  ],
+  "summary": "Middle React Developer with 2.0 years of experience in building responsive product interfaces and reusable UI components.",
+  "raw_text": "Anastasiia Bondarenko is a middle react developer based in Lviv. Experience: 2.0 years. Skills: react, javascript, typescript, html, css, next.js, graphql, jest, cypress. Target roles: UI Engineer, Frontend Developer. Focus: building responsive product interfaces and reusable UI components.",
+  "source_file": "candidate_C009.json"
+}

@@ -1,0 +1,71 @@
+Python Backend Guide: Matching Criteria, Signals, and Advice
+
+Purpose
+This guide supports retrieval for Python backend, API, and service engineering roles.
+
+Core Skills Recruiters Expect
+Python fundamentals:
+Python 3
+type hints
+async programming
+testing
+clean code
+debugging
+
+Frameworks:
+FastAPI
+Django
+Flask for smaller services
+Pydantic or serializer validation
+
+Data layer:
+PostgreSQL or MySQL
+ORM usage
+SQLAlchemy or Django ORM
+query optimization
+migrations
+transaction handling
+
+Platform and delivery:
+Docker
+CI/CD
+cloud services such as AWS, Azure, or GCP
+logging
+monitoring
+background processing with Celery or queues
+
+Signals of a Strong Candidate
+Built or maintained production APIs.
+Can explain API design decisions, validation, authentication, and error handling.
+Can describe database schema choices and performance tuning.
+Understands deployment basics and service reliability.
+Provides measurable outcomes such as latency reduction, reliability improvements, or throughput gains.
+
+Important Resume Evidence
+Specific frameworks used in production.
+Scale indicators: requests per day, users served, jobs processed, response time improved.
+Database and caching work.
+Testing and observability.
+Cloud or deployment exposure.
+
+Common Gaps
+Python listed without backend production work.
+Framework familiarity without database depth.
+No Docker or deployment evidence.
+No testing or reliability practices.
+No understanding of async, background jobs, or integration patterns for modern services.
+
+Advice by Seniority
+Junior:
+Show one complete API project with CRUD, validation, persistence, tests, and Docker.
+
+Middle:
+Show ownership of service modules, performance improvements, integration work, and production support.
+
+Senior:
+Show architecture, domain ownership, migration strategy, observability, and mentoring or technical leadership.
+
+What to Emphasize in Matching Explanations
+Matched_skills should prioritize Python, FastAPI or Django, PostgreSQL, Docker, and cloud tooling.
+Missing_skills should prioritize production backend fundamentals over optional infrastructure extras.
+Strong explanations should mention service ownership, database depth, and production readiness.

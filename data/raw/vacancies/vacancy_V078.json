@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "V078",
+  "title": "Internal Auditor",
+  "company": "InsightFlow",
+  "location": "Remote",
+  "employment_type": "contract",
+  "years_experience_required": 0.7,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "audit",
+    "excel",
+    "financial reporting",
+    "internal controls",
+    "risk assessment",
+    "gaap",
+    "sap",
+    "documentation"
+  ],
+  "optional_skills": [
+    "sox",
+    "erp",
+    "stakeholder management"
+  ],
+  "responsibilities": "perform audit procedures and control testing; document findings and prepare audit reports; recommend improvements for compliance and risk mitigation",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in audit, excel, financial reporting, internal controls, risk assessment. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "InsightFlow is hiring a junior internal auditor to support reviewing financial processes, controls, and compliance activities.",
+  "raw_text": "Vacancy V078: Internal Auditor at InsightFlow. Location: Remote. Employment: contract. Required experience: 0.7 years. Required skills: audit, excel, financial reporting, internal controls, risk assessment, gaap, sap, documentation. Optional skills: sox, erp, stakeholder management. Responsibilities: perform audit procedures and control testing; document findings and prepare audit reports; recommend improvements for compliance and risk mitigation.",
+  "source_file": "vacancy_V078.json"
+}

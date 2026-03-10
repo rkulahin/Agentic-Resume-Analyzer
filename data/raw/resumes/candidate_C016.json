@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C016",
+  "full_name": "Denys Kravets",
+  "location": "Lviv",
+  "preferred_locations": [
+    "Lviv",
+    "Remote"
+  ],
+  "years_experience": 1.2,
+  "seniority_level": "Junior",
+  "skills": [
+    "python",
+    "fastapi",
+    "django",
+    "postgresql",
+    "docker",
+    "celery",
+    "sqlalchemy",
+    "pytest",
+    "flask"
+  ],
+  "primary_stack": "Python",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in computer science; continued learning in python tooling and engineering practices.",
+  "work_history": "Delivered projects focused on developing backend services, APIs, and data-driven platform features; worked with python, fastapi, django, postgresql, docker; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "API Developer",
+    "Python Developer"
+  ],
+  "summary": "Junior Python Backend Developer with 1.2 years of experience in developing backend services, APIs, and data-driven platform features.",
+  "raw_text": "Denys Kravets is a junior python backend developer based in Lviv. Experience: 1.2 years. Skills: python, fastapi, django, postgresql, docker, celery, sqlalchemy, pytest, flask. Target roles: API Developer, Python Developer. Focus: developing backend services, APIs, and data-driven platform features.",
+  "source_file": "candidate_C016.json"
+}

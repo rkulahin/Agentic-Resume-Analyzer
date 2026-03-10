@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C002",
+  "full_name": "Andrii Tkachenko",
+  "location": "Lviv",
+  "preferred_locations": [
+    "Lviv",
+    "Remote"
+  ],
+  "years_experience": 1.0,
+  "seniority_level": "Junior",
+  "skills": [
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "next.js",
+    "graphql",
+    "jest"
+  ],
+  "primary_stack": "React",
+  "languages": [
+    "Ukrainian C2",
+    "English C1"
+  ],
+  "education": "Bachelor degree in software engineering; continued learning in react tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building responsive product interfaces and reusable UI components; worked with react, javascript, typescript, html, css; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "React Developer",
+    "UI Engineer"
+  ],
+  "summary": "Junior React Developer with 1.0 years of experience in building responsive product interfaces and reusable UI components.",
+  "raw_text": "Andrii Tkachenko is a junior react developer based in Lviv. Experience: 1.0 years. Skills: react, javascript, typescript, html, css, next.js, graphql, jest. Target roles: React Developer, UI Engineer. Focus: building responsive product interfaces and reusable UI components.",
+  "source_file": "candidate_C002.json"
+}

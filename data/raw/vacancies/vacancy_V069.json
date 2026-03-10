@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "V069",
+  "title": ".NET Backend Engineer",
+  "company": "PixelCraft",
+  "location": "Kyiv",
+  "employment_type": "contract",
+  "years_experience_required": 1.3,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "rest api",
+    "redis",
+    "blazor"
+  ],
+  "optional_skills": [
+    "gRPC",
+    "kubernetes"
+  ],
+  "responsibilities": "develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in c#, .net, asp.net core, sql server, entity framework. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "PixelCraft is hiring a junior .net backend engineer to support building enterprise backend systems and internal business applications.",
+  "raw_text": "Vacancy V069: .NET Backend Engineer at PixelCraft. Location: Kyiv. Employment: contract. Required experience: 1.3 years. Required skills: c#, .net, asp.net core, sql server, entity framework, rest api, redis, blazor. Optional skills: gRPC, kubernetes. Responsibilities: develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow.",
+  "source_file": "vacancy_V069.json"
+}

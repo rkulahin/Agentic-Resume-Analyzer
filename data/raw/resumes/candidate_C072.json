@@ -1,0 +1,35 @@
+{
+  "candidate_id": "C072",
+  "full_name": "Bohdan Pavlenko",
+  "location": "Lviv",
+  "preferred_locations": [
+    "Lviv",
+    "Remote"
+  ],
+  "years_experience": 2.2,
+  "seniority_level": "Junior",
+  "skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "azure",
+    "docker",
+    "microservices"
+  ],
+  "primary_stack": ".NET",
+  "languages": [
+    "Ukrainian C2",
+    "English B1"
+  ],
+  "education": "Bachelor degree in software engineering or computer science; continued learning in .net tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building enterprise backend systems and internal business applications; worked with c#, .net, asp.net core, sql server, entity framework; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    ".NET Engineer",
+    "Backend .NET Developer"
+  ],
+  "summary": "Junior C# .NET Developer with 2.2 years of experience in building enterprise backend systems and internal business applications.",
+  "raw_text": "Bohdan Pavlenko is a junior c# .net developer based in Lviv. Experience: 2.2 years. Skills: c#, .net, asp.net core, sql server, entity framework, azure, docker, microservices. Target roles: .NET Engineer, Backend .NET Developer. Focus: building enterprise backend systems and internal business applications.",
+  "source_file": "candidate_C072.json"
+}

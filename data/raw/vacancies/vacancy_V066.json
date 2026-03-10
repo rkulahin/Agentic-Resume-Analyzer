@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "V066",
+  "title": ".NET Backend Engineer",
+  "company": "InsightFlow",
+  "location": "Kharkiv",
+  "employment_type": "contract",
+  "years_experience_required": 0.7,
+  "seniority_level": "Junior",
+  "required_skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "docker",
+    "microservices",
+    "xunit"
+  ],
+  "optional_skills": [
+    "message queues",
+    "clean architecture",
+    "ci/cd"
+  ],
+  "responsibilities": "develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow",
+  "requirements_text": "We are looking for a junior specialist with hands-on experience in c#, .net, asp.net core, sql server, entity framework. Strong communication and delivery ownership are expected.",
+  "benefits": "Flexible schedule, paid vacation, learning budget, mentorship, and access to modern tooling.",
+  "summary": "InsightFlow is hiring a junior .net backend engineer to support building enterprise backend systems and internal business applications.",
+  "raw_text": "Vacancy V066: .NET Backend Engineer at InsightFlow. Location: Kharkiv. Employment: contract. Required experience: 0.7 years. Required skills: c#, .net, asp.net core, sql server, entity framework, docker, microservices, xunit. Optional skills: message queues, clean architecture, ci/cd. Responsibilities: develop and maintain .NET services; integrate databases and internal systems; improve code quality, observability, and deployment flow.",
+  "source_file": "vacancy_V066.json"
+}

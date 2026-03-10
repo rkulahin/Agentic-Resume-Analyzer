@@ -1,0 +1,36 @@
+{
+  "candidate_id": "C067",
+  "full_name": "Kateryna Korniienko",
+  "location": "Dnipro",
+  "preferred_locations": [
+    "Dnipro",
+    "Remote"
+  ],
+  "years_experience": 1.2,
+  "seniority_level": "Junior",
+  "skills": [
+    "c#",
+    ".net",
+    "asp.net core",
+    "sql server",
+    "entity framework",
+    "microservices",
+    "xunit",
+    "rest api",
+    "redis"
+  ],
+  "primary_stack": ".NET",
+  "languages": [
+    "Ukrainian C2",
+    "English B2"
+  ],
+  "education": "Bachelor degree in software engineering or computer science; continued learning in .net tooling and engineering practices.",
+  "work_history": "Delivered projects focused on building enterprise backend systems and internal business applications; worked with c#, .net, asp.net core, sql server, entity framework; collaborated with product, design, and QA teams.",
+  "target_roles": [
+    "Backend .NET Developer",
+    "C# Developer"
+  ],
+  "summary": "Junior C# .NET Developer with 1.2 years of experience in building enterprise backend systems and internal business applications.",
+  "raw_text": "Kateryna Korniienko is a junior c# .net developer based in Dnipro. Experience: 1.2 years. Skills: c#, .net, asp.net core, sql server, entity framework, microservices, xunit, rest api, redis. Target roles: Backend .NET Developer, C# Developer. Focus: building enterprise backend systems and internal business applications.",
+  "source_file": "candidate_C067.json"
+}
